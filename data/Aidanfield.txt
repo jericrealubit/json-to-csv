@@ -1,0 +1,944 @@
+[
+  {
+    "ListingId": 5177345515,
+    "Title": "The essence of family living",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739844074430)/",
+    "EndDate": "/Date(1744684452897)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861526562)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658297.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 3326,
+    "Suburb": "Aidanfield",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740267900000)/",
+        "End": "/Date(1740270600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5670148,
+      "Longitude": 172.5702412,
+      "Northing": 5176126,
+      "Easting": 1565295,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 13 Mar, 12:00 pm",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658317.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658345.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658356.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658367.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658395.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658416.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658438.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658453.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658470.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658506.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658541.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658565.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658585.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658595.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658608.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658618.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658628.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658637.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658651.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658677.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658690.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658704.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658718.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658731.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658742.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/aidanfield/listing/5177345515",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 6440162,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "7 Bernadette Street",
+    "District": "Christchurch City",
+    "AgencyReference": "5526305",
+    "Area": 223,
+    "LandArea": 693,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 car garaging",
+    "PropertyType": "House",
+    "RateableValue": 960000,
+    "AdjacentSuburbNames": [
+      "Westlake",
+      "Aidanfield",
+      "Oaklands",
+      "Hillmorton",
+      "Halswell"
+    ],
+    "AdjacentSuburbIds": [
+      2046,
+      3326,
+      2233,
+      2236,
+      2149
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 12307,
+      "Name": "Bayleys Fendalton, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-5951504",
+      "Website": "https://www.bayleys.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6440162-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#00234b",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#042249",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6440162-office_branding-2.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6440162-5.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Steve Ellis",
+          "MobilePhoneNumber": "(027) 5349119",
+          "OfficePhoneNumber": "(03) 5951504",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6603978v5.jpg",
+          "UrlSlug": "SteveandBelinda-Ellis",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Belinda Ellis",
+          "MobilePhoneNumber": "(027) 2494847",
+          "OfficePhoneNumber": "(03) 5951504",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5397663v3.jpg",
+          "UrlSlug": "Belinda-Ellis",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741820400000)/"
+    }
+  },
+  {
+    "ListingId": 5141623970,
+    "Title": "Privacy, space and five bedrooms",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1733351400000)/",
+    "EndDate": "/Date(1744073520000)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861526566)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082187.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 3326,
+    "Suburb": "Aidanfield",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5645499,
+      "Longitude": 172.5687405,
+      "Northing": 5176399,
+      "Easting": 1565172,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 19 Feb",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082193.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082348.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082212.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082224.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082232.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082239.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082256.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082272.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082278.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082281.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082288.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082297.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082299.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082300.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082307.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082315.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082325.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172082334.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/aidanfield/listing/5141623970",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 6440162,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "3 Ginaty Lane",
+    "District": "Christchurch City",
+    "AgencyReference": "5525808",
+    "Area": 321,
+    "LandArea": 1202,
+    "Bathrooms": 3,
+    "Bedrooms": 5,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 car garaging",
+    "PropertyType": "House",
+    "RateableValue": 1300000,
+    "AdjacentSuburbNames": [
+      "Westlake",
+      "Aidanfield",
+      "Oaklands",
+      "Hillmorton",
+      "Halswell"
+    ],
+    "AdjacentSuburbIds": [
+      2046,
+      3326,
+      2233,
+      2236,
+      2149
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 12307,
+      "Name": "Bayleys Fendalton, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-5951504",
+      "Website": "https://www.bayleys.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6440162-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#00234b",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#042249",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6440162-office_branding-2.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6440162-5.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Dillon Comber",
+          "MobilePhoneNumber": "(021) 09028252",
+          "OfficePhoneNumber": "(03) 5951504",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7637653v1.jpg",
+          "UrlSlug": "Dillon-Comber",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Steve Ellis",
+          "MobilePhoneNumber": "(027) 5349119",
+          "OfficePhoneNumber": "(03) 5951504",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6603978v5.jpg",
+          "UrlSlug": "SteveandBelinda-Ellis",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 3,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1739876400000)/"
+    }
+  },
+  {
+    "ListingId": 5118978069,
+    "Title": "Under offer sorry ....",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1736728068120)/",
+    "EndDate": "/Date(1744679565090)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861526571)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608833.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 3326,
+    "Suburb": "Aidanfield",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5679726,
+      "Longitude": 172.5705335,
+      "Northing": 5176020,
+      "Easting": 1565319,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608816.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608779.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608806.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608769.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608795.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608757.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608762.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608751.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608824.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608681.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608690.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608725.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608740.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608827.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608831.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608857.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608835.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608838.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608851.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2179608864.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/aidanfield/listing/5118978069",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5893873,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "44 Bibiana Street",
+    "District": "Christchurch City",
+    "Area": 199,
+    "LandArea": 672,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 860000,
+    "AdjacentSuburbNames": [
+      "Westlake",
+      "Aidanfield",
+      "Oaklands",
+      "Hillmorton",
+      "Halswell"
+    ],
+    "AdjacentSuburbIds": [
+      2046,
+      3326,
+      2233,
+      2236,
+      2149
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 10475,
+      "Name": "Raine & Horne Cashmere, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-4239862",
+      "Website": "https://cashmere.mikepero.com",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5893873-7.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5893873-office_branding-6.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5893873-5.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Nienke Middleton",
+          "MobilePhoneNumber": "(021) 0678568",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6297640v3.jpg",
+          "UrlSlug": "Nienke-Middleton",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744679565090)/"
+    }
+  },
+  {
+    "ListingId": 5171478953,
+    "Title": "Owners Purchased & Seriously Motivated!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739521771700)/",
+    "EndDate": "/Date(1744602670670)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861526574)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606184.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 3326,
+    "Suburb": "Aidanfield",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740272400000)/",
+        "End": "/Date(1740274200000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5650688,
+      "Longitude": 172.5583284,
+      "Northing": 5176337,
+      "Easting": 1564332,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 13 Mar",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606217.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606200.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606203.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606210.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606212.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606189.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606191.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606221.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606229.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606232.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606219.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187657922.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606226.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606237.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606238.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606239.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606240.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606243.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606241.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606246.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606244.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606245.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187606247.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/aidanfield/listing/5171478953",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3078252,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "15 Saddleback Green",
+    "District": "Christchurch City",
+    "AgencyReference": "PLS5698",
+    "LandArea": 788,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces, 2 open spaces",
+    "PropertyType": "House",
+    "RateableValue": 1030000,
+    "AdjacentSuburbNames": [
+      "Westlake",
+      "Aidanfield",
+      "Oaklands",
+      "Hillmorton",
+      "Halswell"
+    ],
+    "AdjacentSuburbIds": [
+      2046,
+      3326,
+      2233,
+      2236,
+      2149
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 5257,
+      "Name": "Harcourts Four Seasons Realty 2017 Ltd, The Palms, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3850343",
+      "Website": "http://www.fourseasons.harcourts.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3078252-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3078252-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Mitchell Roberts",
+          "MobilePhoneNumber": "(027) 4130797",
+          "OfficePhoneNumber": "(03) 3850343",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5320012v7.jpg",
+          "UrlSlug": "Mitchell-Roberts",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Mana Tai",
+          "MobilePhoneNumber": "(027) 6262824",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile223037v10.jpg",
+          "UrlSlug": "Mana-Tai",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 4,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1741777200000)/"
+    }
+  },
+  {
+    "ListingId": 5169187429,
+    "Title": "Dual Master Suites, Study, Living Spaces & More",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739417942163)/",
+    "EndDate": "/Date(1744424960010)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861526579)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329185.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 3326,
+    "Suburb": "Aidanfield",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5595155,
+      "Longitude": 172.5686744,
+      "Northing": 5176959,
+      "Easting": 1565164,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 6 Mar, 10:00 am",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329188.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329190.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329198.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329203.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329207.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329209.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329214.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329217.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329219.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329221.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329224.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329231.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329234.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329240.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329242.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329246.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329248.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329250.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329253.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329255.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187329258.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/aidanfield/listing/5169187429",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3521747,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "83 McMahon Drive",
+    "District": "Christchurch City",
+    "AgencyReference": "PI87829",
+    "Area": 275,
+    "LandArea": 774,
+    "Bathrooms": 3,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Westlake",
+      "Aidanfield",
+      "Oaklands",
+      "Hillmorton",
+      "Halswell"
+    ],
+    "AdjacentSuburbIds": [
+      2046,
+      3326,
+      2233,
+      2236,
+      2149
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6048,
+      "Name": "Gold Real Estate Group Papanui, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3526166",
+      "Website": "http://www.homes4sale.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3521747-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3521747-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3521747-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Michelle Fu",
+          "MobilePhoneNumber": "(021) 02518775",
+          "OfficePhoneNumber": "(03) 3526166",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2095696v12.jpg",
+          "UrlSlug": "michelle-Fu",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 2,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741208400000)/"
+    }
+  },
+  {
+    "ListingId": 5177344941,
+    "Title": "ENTERTAINERS DELIGHT",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739844034733)/",
+    "EndDate": "/Date(1744688018813)/",
+    "ListingLength": null,
+    "HasGallery": true,
+    "AsAt": "/Date(1739861526582)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658003.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 3326,
+    "Suburb": "Aidanfield",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740182400000)/",
+        "End": "/Date(1740184200000)/"
+      },
+      {
+        "Start": "/Date(1740268800000)/",
+        "End": "/Date(1740270600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.570251,
+      "Longitude": 172.5683935,
+      "Northing": 5175766,
+      "Easting": 1565148,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 6 Mar, 11:00 am",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658015.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658028.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658037.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658048.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658054.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658058.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658064.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658070.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658076.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658082.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658085.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658094.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658100.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658106.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658113.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658121.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658129.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658138.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658157.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658166.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658171.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658176.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658181.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658191.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658209.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658220.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658232.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658256.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658305.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658312.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658326.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658333.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658339.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658348.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658357.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658374.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658398.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658409.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188658421.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/aidanfield/listing/5177344941",
+    "MemberId": 3751330,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "7 Te Pihopa Way",
+    "District": "Christchurch City",
+    "AgencyReference": "MET23789",
+    "Area": 212,
+    "LandArea": 801,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Westlake",
+      "Aidanfield",
+      "Oaklands",
+      "Hillmorton",
+      "Halswell"
+    ],
+    "AdjacentSuburbIds": [
+      2046,
+      3326,
+      2233,
+      2236,
+      2149
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6511,
+      "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3430219",
+      "Website": "http://www.rwmetro.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Greg Wright",
+          "MobilePhoneNumber": "(027) 4843400",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7567585v2.jpg",
+          "UrlSlug": "Greg-Wright",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741212000000)/"
+    }
+  },
+  {
+    "ListingId": 5167158484,
+    "Title": "Impressive Family Living",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739314602507)/",
+    "EndDate": "/Date(1744593495113)/",
+    "ListingLength": null,
+    "HasGallery": true,
+    "AsAt": "/Date(1739861526585)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025596.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 3326,
+    "Suburb": "Aidanfield",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740180600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5688744,
+      "Longitude": 172.5687726,
+      "Northing": 5175919,
+      "Easting": 1565177,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025597.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025600.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025602.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025603.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025605.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025607.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025608.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025611.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025615.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025618.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025620.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025623.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025626.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025629.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025631.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025632.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025636.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025638.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025640.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025643.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025645.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187025647.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/aidanfield/listing/5167158484",
+    "MemberId": 8080605,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "9 Cunneen Place",
+    "District": "Christchurch City",
+    "AgencyReference": "10536",
+    "Area": 201,
+    "LandArea": 576,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "BestContactTime": "Business hours",
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 Parking Spaces",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Westlake",
+      "Aidanfield",
+      "Oaklands",
+      "Hillmorton",
+      "Halswell"
+    ],
+    "AdjacentSuburbIds": [
+      2046,
+      3326,
+      2233,
+      2236,
+      2149
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15563,
+      "Name": "Arizto Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-540550",
+      "Website": "http://www.arizto.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8080605-1.jpg",
+      "Branding": {
+        "BackgroundColor": "#0f5a5f",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#0f5a5f",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8080605-office_branding-1.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8080605-1.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Angela Allan",
+          "MobilePhoneNumber": "(027) 9229960",
+          "OfficePhoneNumber": "(027) 9229960",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7658393v3.jpg",
+          "UrlSlug": "Angela-Allan",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744593495113)/"
+    }
+  }
+]

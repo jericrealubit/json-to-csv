@@ -1,0 +1,774 @@
+[
+    {
+        "ListingId": 5146378975,
+        "Title": "Adorable and Affordable",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738203096317)/",
+        "EndDate": "/Date(1744067916317)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739871643143)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840326.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2500,
+        "Suburb": "Broomfield",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5290182,
+            "Longitude": 172.5280643,
+            "Northing": 5180328,
+            "Easting": 1561865,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 19 Feb",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840333.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840338.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840342.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840346.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840350.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840352.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840362.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840367.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840374.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840380.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840382.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840384.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840388.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840394.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840396.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840401.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840410.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840419.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840430.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840438.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840446.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840458.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840463.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840467.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840472.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840481.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183840497.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185950472.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/broomfield/listing/5146378975",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 5896917,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "2 Magenta Place",
+        "District": "Christchurch City",
+        "LandArea": 657,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Avonhead",
+            "Hyde Park",
+            "Sockburn",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby",
+            "Russley"
+        ],
+        "AdjacentSuburbIds": [
+            2504,
+            2512,
+            2058,
+            2500,
+            2144,
+            2145,
+            2146,
+            2501
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 10486,
+            "Name": "Raine & Horne Burnside | Harewood, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-468737",
+            "Website": "https://harewood.mikepero.com",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5896917-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffffff",
+                "TextColor": "#000000",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5896917-office_branding-6.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5896917-5.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Garry Huata",
+                    "MobilePhoneNumber": "(021) 448282",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5943061v10.jpg",
+                    "UrlSlug": "Garry-Huata",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Chris Spence",
+                    "MobilePhoneNumber": "(027) 2036164",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2715981v5.jpg",
+                    "UrlSlug": "Chris-Spence",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1739876400000)/"
+        }
+    },
+    {
+        "ListingId": 5167451512,
+        "Title": "Reserve Views and Family Comfort Await!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739328789400)/",
+        "EndDate": "/Date(1744663601110)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739871643146)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083081.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2500,
+        "Suburb": "Broomfield",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740181500000)/",
+                "End": "/Date(1740183300000)/"
+            },
+            {
+                "Start": "/Date(1740267900000)/",
+                "End": "/Date(1740269700000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5295643,
+            "Longitude": 172.5361519,
+            "Northing": 5180271,
+            "Easting": 1562519,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 5 Mar",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083095.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083082.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083083.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083088.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083092.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083094.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083100.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083102.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083108.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083117.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083125.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083128.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083134.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083141.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187083145.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/broomfield/listing/5167451512",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3751330,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "5 Miromiro Street",
+        "District": "Christchurch City",
+        "AgencyReference": "MCN37563",
+        "LandArea": 374,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Avonhead",
+            "Hyde Park",
+            "Sockburn",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby",
+            "Russley"
+        ],
+        "AdjacentSuburbIds": [
+            2504,
+            2512,
+            2058,
+            2500,
+            2144,
+            2145,
+            2146,
+            2501
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6511,
+            "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3430219",
+            "Website": "http://www.rwmetro.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Jiby Thomas",
+                    "MobilePhoneNumber": "(022) 4179858",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7010746v7.jpg",
+                    "UrlSlug": "Jiby-Thomas-2",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1741086000000)/"
+        }
+    },
+    {
+        "ListingId": 5133313596,
+        "Title": "Must be Seen, Must be Sold",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737500409447)/",
+        "EndDate": "/Date(1744529711760)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739871643148)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021747.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2500,
+        "Suburb": "Broomfield",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5305127,
+            "Longitude": 172.5381481,
+            "Northing": 5180166,
+            "Easting": 1562681,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $649,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021750.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021751.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021749.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021752.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021754.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021755.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021757.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021758.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021760.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021759.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021762.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021763.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182021765.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/broomfield/listing/5133313596",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 8653544,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "44 Miromiro Street",
+        "District": "Christchurch City",
+        "AgencyReference": "CHR10142",
+        "LandArea": 166,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 car garaging, 1 off street carpark",
+        "PropertyType": "Townhouse",
+        "RateableValue": 690000,
+        "AdjacentSuburbNames": [
+            "Avonhead",
+            "Hyde Park",
+            "Sockburn",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby",
+            "Russley"
+        ],
+        "AdjacentSuburbIds": [
+            2504,
+            2512,
+            2058,
+            2500,
+            2144,
+            2145,
+            2146,
+            2501
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 16412,
+            "Name": "NZ Sotheby's International Realty - Christchurch, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3645555",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8653544-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#00295f",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#00295f",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8653544-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8653544-2.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Emma King",
+                    "MobilePhoneNumber": "(021) 2429911",
+                    "OfficePhoneNumber": "(03) 3645555",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile782888v3.jpg",
+                    "UrlSlug": "Emma-King",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744529711760)/"
+        }
+    },
+    {
+        "ListingId": 5131917913,
+        "Title": "Owner purchased elsewhere! Has to be sold!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737419908220)/",
+        "EndDate": "/Date(1744584328220)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739871643150)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792818.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2500,
+        "Suburb": "Broomfield",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740186000000)/",
+                "End": "/Date(1740187800000)/"
+            },
+            {
+                "Start": "/Date(1740272400000)/",
+                "End": "/Date(1740274200000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5241988,
+            "Longitude": 172.5354856,
+            "Northing": 5180866,
+            "Easting": 1562462,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 26 Feb",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792814.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792822.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792826.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792829.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792832.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792838.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792844.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792848.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792854.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792861.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792866.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792883.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181792887.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/broomfield/listing/5131917913",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3751330,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "5/38A Steadman Road",
+        "District": "Christchurch City",
+        "AgencyReference": "MET38328",
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "Unit",
+        "AdjacentSuburbNames": [
+            "Avonhead",
+            "Hyde Park",
+            "Sockburn",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby",
+            "Russley"
+        ],
+        "AdjacentSuburbIds": [
+            2504,
+            2512,
+            2058,
+            2500,
+            2144,
+            2145,
+            2146,
+            2501
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6511,
+            "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3430219",
+            "Website": "http://www.rwmetro.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Sarah Rogers",
+                    "MobilePhoneNumber": "(021) 687433",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7849513v1.jpg",
+                    "UrlSlug": "Sarah-Rogers",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Janelle Prendergast",
+                    "MobilePhoneNumber": "(021) 821979",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8127157v2.jpg",
+                    "UrlSlug": "Janelle-Prendergast",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1740481200000)/"
+        }
+    },
+    {
+        "ListingId": 4958349248,
+        "Title": "* UNDER OFFER * A SWEET HOME, THAT TICKS ALL THE B",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1728429885413)/",
+        "EndDate": "/Date(1744224643910)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739871643153)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2158616022.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2500,
+        "Suburb": "Broomfield",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.521998,
+            "Longitude": 172.537198,
+            "Northing": 5181112,
+            "Easting": 1562599,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $535,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158615981.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158615984.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158615992.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158615996.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158616001.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158616005.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158616007.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158616015.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158616011.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2158616017.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/broomfield/listing/4958349248",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2341280,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "2/6 Steadman Road",
+        "District": "Christchurch City",
+        "AgencyReference": "TRC24107",
+        "Area": 80,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 Car Garaging & Lockup.",
+        "PropertyType": "House",
+        "RateableValue": 495000,
+        "AdjacentSuburbNames": [
+            "Avonhead",
+            "Hyde Park",
+            "Sockburn",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby",
+            "Russley"
+        ],
+        "AdjacentSuburbIds": [
+            2504,
+            2512,
+            2058,
+            2500,
+            2144,
+            2145,
+            2146,
+            2501
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 3804,
+            "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-663737",
+            "Website": "http://www.totalrealty.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+            "Branding": {
+                "BackgroundColor": "#f05e23",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#f05e23",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Karla Hubac",
+                    "MobilePhoneNumber": "(021) 1318146",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6882044v4.jpg",
+                    "UrlSlug": "Karla-Hubac-2",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "SF1PL3Boost14",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744224643910)/"
+        }
+    },
+    {
+        "ListingId": 5076844645,
+        "Title": "Vendors Cashing Up!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1734489286913)/",
+        "EndDate": "/Date(1744339402443)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739871643155)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150009.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2500,
+        "Suburb": "Broomfield",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5303714,
+            "Longitude": 172.5390662,
+            "Northing": 5180182,
+            "Easting": 1562755,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $766,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150015.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150020.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150023.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150027.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150030.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150033.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150035.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150040.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150043.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150045.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150047.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150050.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175150052.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/broomfield/listing/5076844645",
+        "MemberId": 3556051,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "33 Miromiro Street",
+        "District": "Christchurch City",
+        "AgencyReference": "IL7459",
+        "LandArea": 264,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "RateableValue": 710000,
+        "AdjacentSuburbNames": [
+            "Avonhead",
+            "Hyde Park",
+            "Sockburn",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby",
+            "Russley"
+        ],
+        "AdjacentSuburbIds": [
+            2504,
+            2512,
+            2058,
+            2500,
+            2144,
+            2145,
+            2146,
+            2501
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6153,
+            "Name": "Holmwood Real Estate Ltd Ilam, (Licensed: REAA 2008)",
+            "Website": "http://www.holmwood.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556051-5.jpg",
+            "Branding": {
+                "BackgroundColor": "#002049",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#002049",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3556051-office_branding-5.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556051-4.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Don Yee",
+                    "MobilePhoneNumber": "(027) 4345797",
+                    "OfficePhoneNumber": "(03) 3516556",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2978737v2.jpg",
+                    "UrlSlug": "Don-Yee",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744339402443)/"
+        }
+    }
+]

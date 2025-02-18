@@ -1,0 +1,2770 @@
+[
+  {
+    "ListingId": 5165945826,
+    "Title": "Past, Present And Future",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739241056333)/",
+    "EndDate": "/Date(1744671356333)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603727)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822008.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739921400000)/",
+        "End": "/Date(1739923200000)/"
+      },
+      {
+        "Start": "/Date(1740175200000)/",
+        "End": "/Date(1740177000000)/"
+      },
+      {
+        "Start": "/Date(1740263400000)/",
+        "End": "/Date(1740265200000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5435634,
+      "Longitude": 172.6154719,
+      "Northing": 5178749,
+      "Easting": 1568935,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 6 Mar, 11:00 am",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822011.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822015.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822017.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822021.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822026.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822028.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822031.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822035.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822037.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822041.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822047.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822051.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822053.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822056.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822058.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822061.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822064.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822067.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822069.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822077.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186822078.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5165945826",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3554829,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "36 Dickens Street",
+    "District": "Christchurch City",
+    "AgencyReference": "BE25544",
+    "Area": 93,
+    "LandArea": 455,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 open spaces",
+    "PropertyType": "House",
+    "RateableValue": 790000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6142,
+      "Name": "Grenadier Real Estate Beckenham, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3371316",
+      "Website": "http://www.harcourtsbeckenham.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3554829-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3554829-office_branding-4.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3554829-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Claire Oliver",
+          "MobilePhoneNumber": "(027) 5994057",
+          "OfficePhoneNumber": "(03) 3371316",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/994658.jpg",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Mark Tutton",
+          "MobilePhoneNumber": "(027) 2243330",
+          "OfficePhoneNumber": "(03) 3371316",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7709473v8.jpg",
+          "UrlSlug": "Mark-Tutton-2",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741212000000)/"
+    }
+  },
+  {
+    "ListingId": 5154095468,
+    "Title": "Last Chance To View This Weekend",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738621280977)/",
+    "EndDate": "/Date(1744687386443)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603731)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840857.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740175200000)/",
+        "End": "/Date(1740177000000)/"
+      },
+      {
+        "Start": "/Date(1740261600000)/",
+        "End": "/Date(1740263400000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5447654,
+      "Longitude": 172.6065133,
+      "Northing": 5178612,
+      "Easting": 1568212,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 26 Feb",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840846.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840850.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840852.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840860.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840863.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840868.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840871.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840875.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840884.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840887.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840891.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840893.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840901.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840904.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184840906.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5154095468",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3554829,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "54 Parade Court",
+    "District": "Christchurch City",
+    "AgencyReference": "BE25797",
+    "Area": 131,
+    "LandArea": 292,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 690000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6142,
+      "Name": "Grenadier Real Estate Beckenham, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3371316",
+      "Website": "http://www.harcourtsbeckenham.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3554829-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3554829-office_branding-4.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3554829-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Vic Raha",
+          "MobilePhoneNumber": "(027) 3100369",
+          "OfficePhoneNumber": "(03) 3371316",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7993889v9.jpg",
+          "UrlSlug": "Vic-Raha",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Melissa Davenport",
+          "MobilePhoneNumber": "(027) 7280180",
+          "OfficePhoneNumber": "(03) 3371316",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8766426v3.jpg",
+          "UrlSlug": "Melissa-Davenport",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1740481200000)/"
+    }
+  },
+  {
+    "ListingId": 5142779119,
+    "Title": "Addington Gem with Guaranteed Income!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738018578473)/",
+    "EndDate": "/Date(1744578978473)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603735)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376886.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740180600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5429127,
+      "Longitude": 172.6091692,
+      "Northing": 5178819,
+      "Easting": 1568426,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376893.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376898.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376908.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376915.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376919.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376926.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376931.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376934.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376939.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376944.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183376951.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5142779119",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 6444866,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "2/21 Clarence Street",
+    "District": "Christchurch City",
+    "AgencyReference": "FH22658",
+    "Area": 77,
+    "LandArea": 107,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "Townhouse",
+    "RateableValue": 600000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 12333,
+      "Name": "Grenadier Real Estate Halswell, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3221197",
+      "Website": "http://www.harcourtshalswell.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6444866-2.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6444866-office_branding-1.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6444866-1.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Vickie Li",
+          "MobilePhoneNumber": "(021) 1323488",
+          "OfficePhoneNumber": "(03) 3221197",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4293208v3.jpg",
+          "UrlSlug": "Vickie-Li",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744578978473)/"
+    }
+  },
+  {
+    "ListingId": 4978941679,
+    "Title": "City Convenience, Suburban Charm",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1729481256617)/",
+    "EndDate": "/Date(1744676394050)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603737)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940572.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5445437,
+      "Longitude": 172.6197994,
+      "Northing": 5178641,
+      "Easting": 1569286,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $395,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940576.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940585.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940580.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940591.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940596.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940609.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940617.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940628.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940637.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940642.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940647.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940652.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940658.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2161940665.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/4978941679",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5375882,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "1/96 Poulson Street",
+    "District": "Christchurch City",
+    "AgencyReference": "BGN32710",
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Off Street Park",
+    "PropertyType": "Townhouse",
+    "RateableValue": 440000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 9394,
+      "Name": "Ray White Barrington - Next Step Realty Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3322080",
+      "Website": "http://www.raywhite.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5375882-4.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5375882-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Faron Poulter",
+          "MobilePhoneNumber": "(027) 8624916",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4682445v4.jpg",
+          "UrlSlug": "faron-poulter",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Rochelle Poulter",
+          "MobilePhoneNumber": "(027) 4494848",
+          "OfficePhoneNumber": "(03) 3320002",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5928346v2.jpg",
+          "UrlSlug": "Rochelle-Poulter",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1744676394050)/"
+    }
+  },
+  {
+    "ListingId": 5130453293,
+    "Title": "Hagley Park, City Centre On Your Doorstep!!",
+    "Category": "0350-7279-7281-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737337012820)/",
+    "EndDate": "/Date(1744594612820)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603740)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/New-townhouse-terraced",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526115.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.544512,
+      "Longitude": 172.6126843,
+      "Northing": 5178642,
+      "Easting": 1568711,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $469,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526113.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181525481.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181525485.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181525492.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526108.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526553.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181531655.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2079400193.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/new-townhouse-terraced/canterbury/christchurch-city/addington/listing/5130453293",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 7805020,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "8/18 Feilding Street",
+    "District": "Christchurch City",
+    "Amenities": "Westfield Riccarton, Hagley Park, City Centre, Addington cafes, bars and restaurants..",
+    "Area": 57,
+    "Bathrooms": 1,
+    "Bedrooms": 1,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "Townhouse",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15137,
+      "Name": "Boutique Living Ltd",
+      "PhoneNumber": "+64-2-75740002",
+      "Website": "http://www.boutiqueliving.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7805020-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7805020-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7805020-3.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Darren Williams",
+          "MobilePhoneNumber": "(027) 5740002",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744594612820)/"
+    }
+  },
+  {
+    "ListingId": 5130440503,
+    "Title": "Hagley Park, City Centre On Your Doorstep!!",
+    "Category": "0350-7279-7281-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737336351510)/",
+    "EndDate": "/Date(1744593951510)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603741)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/New-townhouse-terraced",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526108.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.544512,
+      "Longitude": 172.6126843,
+      "Northing": 5178642,
+      "Easting": 1568711,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $569,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526113.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181525481.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181525485.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181525492.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526115.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526553.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526550.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181526551.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2079400193.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/new-townhouse-terraced/canterbury/christchurch-city/addington/listing/5130440503",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 7805020,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "1-14/18 Feilding Street",
+    "District": "Christchurch City",
+    "Amenities": "Westfield Riccarton, Hagley Park, City Centre, Addington cafes, bars and restaurants.. ",
+    "Area": 76,
+    "Bathrooms": 2,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "Townhouse",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15137,
+      "Name": "Boutique Living Ltd",
+      "PhoneNumber": "+64-2-75740002",
+      "Website": "http://www.boutiqueliving.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7805020-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7805020-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7805020-3.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Darren Williams",
+          "MobilePhoneNumber": "(027) 5740002",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744593951510)/"
+    }
+  },
+  {
+    "ListingId": 4895810562,
+    "Title": "Urgent – Vendor Must Sell!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1725224851543)/",
+    "EndDate": "/Date(1743541771543)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603743)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138401.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5467471,
+      "Longitude": 172.6281867,
+      "Northing": 5178400,
+      "Easting": 1569964,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $559,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138411.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138421.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138393.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138431.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138383.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138331.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138363.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138372.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138346.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138311.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150138450.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/4895810562",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 8069272,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "2/44 Antigua Street",
+    "District": "Christchurch City",
+    "AgencyReference": "1468375",
+    "Area": 68,
+    "LandArea": 61,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 open car spaces",
+    "PropertyType": "Townhouse",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15546,
+      "Name": "Office Road Real Estate - (Powered by Agent X (2021) Ltd), (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-2-25475232",
+      "Website": "https://www.officeroad.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8069272-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8069272-office_branding-6.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8069272-5.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Morgan Perry",
+          "OfficePhoneNumber": "(027) 4131640",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7898425v1.jpg",
+          "UrlSlug": "Morgan-Perry",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1743541771543)/"
+    }
+  },
+  {
+    "ListingId": 5033653052,
+    "Title": "$50,000 Price Drop - Must Sell ASAP",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1732247029073)/",
+    "EndDate": "/Date(1744688553563)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603744)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252139.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5446096,
+      "Longitude": 172.6194895,
+      "Northing": 5178634,
+      "Easting": 1569261,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $829,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252142.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252144.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252145.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252147.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252149.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252151.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252153.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252154.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252156.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169252160.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169259573.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169259592.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2169259598.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5033653052",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 8224456,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "92 Poulson Street",
+    "District": "Christchurch City",
+    "AgencyReference": "HCG3227",
+    "LandArea": 546,
+    "Bathrooms": 3,
+    "Bedrooms": 6,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces, 3 open spaces",
+    "PropertyType": "House",
+    "RateableValue": 690000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15818,
+      "Name": "Harcourts Cashmere - Grenadier Real Estate, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3653888",
+      "Website": "https://harcourts.net/nz/office/grenadier",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8224456-1.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8224456-office_branding-2.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8224456-1.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Yogesh Bhargava",
+          "MobilePhoneNumber": "(022) 0761176",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3673014v3.jpg",
+          "UrlSlug": "Yogesh-Bhargava",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 4,
+    "Lounges": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1744688553563)/"
+    }
+  },
+  {
+    "ListingId": 4997696277,
+    "Title": "Modern Gem in Addington’s “Sweet Spot”",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1730428105343)/",
+    "EndDate": "/Date(1744836145343)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603746)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404034.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.547216,
+      "Longitude": 172.6039731,
+      "Northing": 5178339,
+      "Easting": 1568008,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404097.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404066.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404080.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404163.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404090.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404106.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404176.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404139.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404148.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404015.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404124.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404114.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404104.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404190.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404060.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404062.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404043.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2164404210.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/4997696277",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 7161719,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "9/7 Lindores Street",
+    "District": "Christchurch City",
+    "AgencyReference": "1489767",
+    "Area": 70,
+    "LandArea": 103,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 open car spaces",
+    "PropertyType": "Townhouse",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 13873,
+      "Name": "Kelleher Real Estate Limited, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-673769",
+      "Website": "https://kelleher.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7161719-14.jpg",
+      "Branding": {
+        "BackgroundColor": "#00b273",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#00b273",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7161719-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7161719-13.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jeremy Kelleher",
+          "OfficePhoneNumber": "(027) 8735722",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5214842v6.jpg",
+          "UrlSlug": "Jeremy-Kelleher",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744836145343)/"
+    }
+  },
+  {
+    "ListingId": 4926769882,
+    "Title": "A Garage and An Extra Room!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1726787130817)/",
+    "EndDate": "/Date(1747002930817)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603748)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409659.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5421516,
+      "Longitude": 172.6125796,
+      "Northing": 5178904,
+      "Easting": 1568701,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $649,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409662.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409664.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409667.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409670.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409673.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409675.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409679.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409683.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409688.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409692.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409694.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409696.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409699.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409706.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409709.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409713.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409716.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409719.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409722.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409731.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2154409739.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/4926769882",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5375882,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "9/317 Lincoln Road",
+    "District": "Christchurch City",
+    "AgencyReference": "BGN32693",
+    "LandArea": 131,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Internal Access Garage",
+    "PropertyType": "House",
+    "RateableValue": 680000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 9394,
+      "Name": "Ray White Barrington - Next Step Realty Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3322080",
+      "Website": "http://www.raywhite.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5375882-4.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5375882-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Matt Ingold",
+          "MobilePhoneNumber": "(027) 3121313",
+          "OfficePhoneNumber": "(03) 3902273",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile211116v11.jpg",
+          "UrlSlug": "Matt-Ingold",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Nic Davis",
+          "MobilePhoneNumber": "(020) 4732589",
+          "OfficePhoneNumber": "(03) 3902273",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4330804v6.jpg",
+          "UrlSlug": "Nic-Davis",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1747002930817)/"
+    }
+  },
+  {
+    "ListingId": 5146273560,
+    "Title": "Freehold Townhouse on City fringe",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738197594987)/",
+    "EndDate": "/Date(1743986994987)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603751)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817126.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.546467,
+      "Longitude": 172.6275005,
+      "Northing": 5178431,
+      "Easting": 1569909,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 20 Feb",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817128.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817132.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817134.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817136.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817138.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817142.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817153.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817164.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817168.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817173.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817177.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817182.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817189.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817191.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817193.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817194.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817198.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817201.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817209.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817226.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817242.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817253.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817263.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817268.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183817271.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5146273560",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2566119,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "2/45 Antigua Street",
+    "District": "Christchurch City",
+    "AgencyReference": "PRB30519",
+    "LandArea": 200,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 640000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4286,
+      "Name": "Ray White Selwyn (Town and Lifestyle Real Estate Ltd), (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3479988",
+      "Website": "http://www.raywhite.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2566119-8.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2566119-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Mariessa Waddington",
+          "MobilePhoneNumber": "(027) 2727772",
+          "OfficePhoneNumber": "(03) 7777160",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2149171v5.jpg",
+          "UrlSlug": "Mariessa-Waddington",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1739962800000)/"
+    }
+  },
+  {
+    "ListingId": 5054928965,
+    "Title": "* UNDER OFFER * Private Secluded Setting.",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1733353232970)/",
+    "EndDate": "/Date(1743625952970)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603753)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088652.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.546322,
+      "Longitude": 172.619351,
+      "Northing": 5178444,
+      "Easting": 1569250,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $625,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088656.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088659.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088663.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088665.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088668.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088669.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088673.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088674.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088680.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088683.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088684.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088686.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088689.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088690.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088691.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088698.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088705.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088707.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088710.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088711.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088713.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088717.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088719.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088720.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088722.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088723.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088724.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172088728.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5054928965",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2341280,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "42A Ward Street",
+    "District": "Christchurch City",
+    "AgencyReference": "TRC24301",
+    "Area": 105,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 Car Garaging.",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 3804,
+      "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-663737",
+      "Website": "http://www.totalrealty.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+      "Branding": {
+        "BackgroundColor": "#f05e23",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#f05e23",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Di Clement",
+          "MobilePhoneNumber": "(027) 4314614",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6914322v1.jpg",
+          "UrlSlug": "Di-Clement",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1743625952970)/"
+    }
+  },
+  {
+    "ListingId": 5155907836,
+    "Title": "Effortless Living in City-Fringe Location",
+    "Category": "0350-7279-7281-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738725755000)/",
+    "EndDate": "/Date(1747004012867)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603754)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/New-townhouse-terraced",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206684.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739937600000)/",
+        "End": "/Date(1739939400000)/"
+      },
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740180600000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5458473,
+      "Longitude": 172.6254892,
+      "Northing": 5178499,
+      "Easting": 1569746,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206689.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206690.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206693.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206697.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206701.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206707.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206715.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206724.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206730.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206734.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206740.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206747.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206753.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206758.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206760.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206762.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185206764.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/new-townhouse-terraced/canterbury/christchurch-city/addington/listing/5155907836",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3751330,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "57A-E Ruskin Street",
+    "District": "Christchurch City",
+    "AgencyReference": "MCN37699",
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 open spaces",
+    "PropertyType": "Townhouse",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6511,
+      "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3430219",
+      "Website": "http://www.rwmetro.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jiby Thomas",
+          "MobilePhoneNumber": "(022) 4179858",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7010746v7.jpg",
+          "UrlSlug": "Jiby-Thomas-2",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1747004012867)/"
+    }
+  },
+  {
+    "ListingId": 5041548664,
+    "Title": "Priced Sharp - Freehold Title",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1732674314990)/",
+    "EndDate": "/Date(1744327240303)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603756)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2180279963.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.548742,
+      "Longitude": 172.6025898,
+      "Northing": 5178169,
+      "Easting": 1567897,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $749,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334255.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334258.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334268.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334260.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334264.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334274.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334276.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334279.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334286.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334298.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334311.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334326.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334339.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334348.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170334362.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2180279990.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2180280004.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2180279973.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2180279982.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2180279988.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5041548664",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 8147298,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "135 Lincoln Road",
+    "District": "Christchurch City",
+    "AgencyReference": "WGM3538",
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15671,
+      "Name": "Harcourts Grenadier Wigram, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3412127",
+      "Website": "https://grenadier.harcourts.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8147298-2.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/125-franchise_branding-2.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8147298-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Lin Ma",
+          "MobilePhoneNumber": "(027) 5117788",
+          "OfficePhoneNumber": "(03) 3571188",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6117834v7.jpg",
+          "UrlSlug": "Lin-Ma",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Carrie Li",
+          "MobilePhoneNumber": "(022) 4758922",
+          "OfficePhoneNumber": "(03) 3412127",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8501664v1.jpg",
+          "UrlSlug": "Carrie-Li",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1744327240303)/"
+    }
+  },
+  {
+    "ListingId": 4899631367,
+    "Title": "HURRY, HURRY, HURRY....Only 1 Left!",
+    "Category": "0350-7279-7283-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1725413721440)/",
+    "EndDate": "/Date(1746675593480)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603759)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/New-house",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183874469.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5460362,
+      "Longitude": 172.6183599,
+      "Northing": 5178475,
+      "Easting": 1569170,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $795,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171929062.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2082971386.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2082971393.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/new-house/canterbury/christchurch-city/addington/listing/4899631367",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5375882,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "2/26 Ward Street",
+    "District": "Christchurch City",
+    "AgencyReference": "BGN32647",
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Off Street parking",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 9394,
+      "Name": "Ray White Barrington - Next Step Realty Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3322080",
+      "Website": "http://www.raywhite.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5375882-4.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5375882-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Rochelle Poulter",
+          "MobilePhoneNumber": "(027) 4494848",
+          "OfficePhoneNumber": "(03) 3320002",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5928346v2.jpg",
+          "UrlSlug": "Rochelle-Poulter",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Faron Poulter",
+          "MobilePhoneNumber": "(027) 8624916",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4682445v4.jpg",
+          "UrlSlug": "faron-poulter",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1746675593480)/"
+    }
+  },
+  {
+    "ListingId": 5053328760,
+    "Title": "It all adds up in Addington - quality new build",
+    "Category": "0350-7279-7280-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1733273430337)/",
+    "EndDate": "/Date(1740531030337)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603762)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/New-apartment",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917226.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5459174,
+      "Longitude": 172.6259958,
+      "Northing": 5178491,
+      "Easting": 1569787,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $699,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917270.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917297.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917321.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917392.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917403.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917416.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917339.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917351.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917364.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917382.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171917476.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171918663.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161102.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161103.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161108.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161101.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171918314.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161104.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161106.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161107.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2172161599.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/new-apartment/canterbury/christchurch-city/addington/listing/5053328760",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 8705890,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "65 Ruskin Street",
+    "District": "Christchurch City",
+    "Amenities": " 2Km to city centre, Hagley Park, the new Metro sports facility, Ara Institute, motorway access",
+    "Area": 69,
+    "LandArea": 32,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "Apartment",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 16509,
+      "Name": "South Sea Homes",
+      "PhoneNumber": "+64-27-5303023",
+      "Website": "https://www.southseahomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8705890-1.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#664039",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8705890-office_branding-1.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8705890-1.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Toosharn Haszard",
+          "MobilePhoneNumber": "(027) 5303023",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/989762.jpg",
+          "MembershipType": 0
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Arjun Haszard",
+          "MobilePhoneNumber": "(021) 0311128",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/989768.jpg",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1740531030337)/"
+    }
+  },
+  {
+    "ListingId": 5053195502,
+    "Title": "Investors Delight",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1733267124370)/",
+    "EndDate": "/Date(1744252535027)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603765)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897968.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5440313,
+      "Longitude": 172.623713,
+      "Northing": 5178700,
+      "Easting": 1569601,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $489,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897972.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897977.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897979.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897982.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897985.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897986.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897989.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897996.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2171897999.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5053195502",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5375882,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "3/29 Fairfield Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "BGN32906",
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "Unit",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 9394,
+      "Name": "Ray White Barrington - Next Step Realty Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3322080",
+      "Website": "http://www.raywhite.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5375882-4.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5375882-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Vinnie Sharma",
+          "MobilePhoneNumber": "(022) 4356212",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4333197v5.jpg",
+          "UrlSlug": "vinnie-sharma",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Tony Hill",
+          "MobilePhoneNumber": "(021) 08533567",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7860238v3.jpg",
+          "UrlSlug": "Tony-Hill",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744252535027)/"
+    }
+  },
+  {
+    "ListingId": 5165839998,
+    "Title": "A Location that’s Hard to Beat",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739235230213)/",
+    "EndDate": "/Date(1744572830213)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603767)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788491.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5448044,
+      "Longitude": 172.6241869,
+      "Northing": 5178614,
+      "Easting": 1569640,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788493.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788495.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788499.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788501.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788506.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788512.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788515.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788518.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788519.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186788522.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5165839998",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 4785403,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "36d Fairfield Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "RX4433463",
+    "Area": 101,
+    "LandArea": 208,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Garages: 1",
+    "PropertyType": "House",
+    "RateableValue": 590000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 8235,
+      "Name": "Iron Bridge Real Estate MREINZ, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-9615333",
+      "Website": "http://www.ironbridge.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4785403-4.jpg",
+      "Branding": {
+        "BackgroundColor": "#f5efe6",
+        "TextColor": "",
+        "StrokeColor": "#f5efe6",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4785403-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4785403-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Elliott Street",
+          "OfficePhoneNumber": "(022) 0478800",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6653768v5.jpg",
+          "UrlSlug": "Elliott-Street",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744572830213)/"
+    }
+  },
+  {
+    "ListingId": 5164336969,
+    "Title": "Prime Addington Location $355,000 - $385,000",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739148721640)/",
+    "EndDate": "/Date(1743987121640)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603769)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487018.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740175200000)/",
+        "End": "/Date(1740177000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5472617,
+      "Longitude": 172.6229819,
+      "Northing": 5178341,
+      "Easting": 1569544,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 25 Feb",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487025.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487031.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487037.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487043.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487049.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487057.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487063.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487070.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487077.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487084.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487090.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186487098.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5164336969",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5758621,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "1/109 Brougham Street",
+    "District": "Christchurch City",
+    "Area": 90,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 370000,
+    "PropertyId": "JAX143",
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 10131,
+      "Name": "Najib Real Estate Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-2-75333945",
+      "Website": "http://www.najibrealestate.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5758621-12.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5758621-office_branding-13.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5758621-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Renee Young",
+          "OfficePhoneNumber": "(021) 701308",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/991326.jpg",
+          "MembershipType": 0
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Sha Jega",
+          "OfficePhoneNumber": "(027) 3753670",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5964859v4.jpg",
+          "UrlSlug": "Sha-Jega",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1740394800000)/"
+    }
+  },
+  {
+    "ListingId": 5107016094,
+    "Title": "Perfect Starter Home $495,000 - $545,000",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1736111545677)/",
+    "EndDate": "/Date(1742525845677)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603773)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077311.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5432084,
+      "Longitude": 172.627018,
+      "Northing": 5178792,
+      "Easting": 1569868,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077316.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077326.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077330.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077334.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077337.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077341.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077350.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077360.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077363.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077366.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077369.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077370.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077372.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077376.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2178077379.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5107016094",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5758621,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "16 York Tong Place",
+    "District": "Christchurch City",
+    "Area": 120,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 550000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 10131,
+      "Name": "Najib Real Estate Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-2-75333945",
+      "Website": "http://www.najibrealestate.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5758621-12.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5758621-office_branding-13.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5758621-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Nathan Najib",
+          "MobilePhoneNumber": "(027) 5140775",
+          "OfficePhoneNumber": "(03) 3267914",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6321360v6.jpg",
+          "UrlSlug": "Nathan-Najib",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1742525845677)/"
+    }
+  },
+  {
+    "ListingId": 5137102147,
+    "Title": "Renovated and Low Maintenance - Prime Location!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737685522333)/",
+    "EndDate": "/Date(1744659513607)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603976)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595697.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740182400000)/",
+        "End": "/Date(1740184200000)/"
+      },
+      {
+        "Start": "/Date(1740268800000)/",
+        "End": "/Date(1740270600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.544816,
+      "Longitude": 172.6232097,
+      "Northing": 5178612,
+      "Easting": 1569561,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $549,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595692.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595701.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595706.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595711.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595717.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595727.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595747.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2158911147.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2158911151.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595764.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595775.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595780.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595785.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595788.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595791.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595794.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182595808.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5137102147",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3521816,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "20A Fairfield Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "PD7649",
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 carport spaces",
+    "PropertyType": "Townhouse",
+    "RateableValue": 550000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6050,
+      "Name": "Gold Real Estate Group Parklands, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3830406",
+      "Website": "http://www.homes4sale.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3521816-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3521816-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Harold Taningco",
+          "MobilePhoneNumber": "(027) 8632161",
+          "OfficePhoneNumber": "(03) 3830406",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8005925v1.jpg",
+          "UrlSlug": "Harold-Taningco",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1744659513607)/"
+    }
+  },
+  {
+    "ListingId": 5135072323,
+    "Title": "Terrific Townhouse-Timeless Classic, Double Garage",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737589873350)/",
+    "EndDate": "/Date(1743985573350)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739860603981)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277945.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2189,
+    "Suburb": "Addington",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5453558,
+      "Longitude": 172.6066235,
+      "Northing": 5178546,
+      "Easting": 1568222,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277949.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277958.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277967.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277969.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277974.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277986.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182277997.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182278014.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/addington/listing/5135072323",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5896923,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "47 Parade Court",
+    "District": "Christchurch City",
+    "Area": 130,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 560000,
+    "AdjacentSuburbNames": [
+      "Beckenham",
+      "Addington",
+      "Riccarton",
+      "Spreydon",
+      "Sydenham",
+      "Barrington"
+    ],
+    "AdjacentSuburbIds": [
+      2338,
+      2189,
+      1993,
+      2178,
+      2180,
+      3253
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 10487,
+      "Name": "Raine & Horne Halswell, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-500123",
+      "Website": "https://halswell.mikepero.com",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5896923-7.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5896923-office_branding-6.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5896923-5.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Dale Maisey",
+          "MobilePhoneNumber": "(021) 0783747",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3498505v3.jpg",
+          "UrlSlug": "Dale-Maisey",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1743985573350)/"
+    }
+  }
+]

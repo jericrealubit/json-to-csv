@@ -1,0 +1,779 @@
+[
+  {
+    "ListingId": 5164358786,
+    "Title": "Huge Section and Recently Updated",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739149910313)/",
+    "EndDate": "/Date(1744578530313)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861607420)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186495884.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2030,
+    "Suburb": "Avondale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740180600000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5095804,
+      "Longitude": 172.688107,
+      "Northing": 5182547,
+      "Easting": 1574789,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 26 Feb",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493356.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493368.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493378.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493388.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493395.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493405.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493412.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493421.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493424.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493428.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493441.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493447.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493452.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493455.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493456.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493459.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493463.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493470.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493473.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493474.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493476.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186493478.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avondale/listing/5164358786",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5375882,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "4 Pembroke Street",
+    "District": "Christchurch City",
+    "AgencyReference": "BGN32998",
+    "LandArea": 921,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Double garage plus off street parking",
+    "PropertyType": "House",
+    "RateableValue": 630000,
+    "AdjacentSuburbNames": [
+      "Avondale",
+      "Aranui",
+      "Bexley",
+      "Dallington",
+      "Burwood",
+      "Wainoni"
+    ],
+    "AdjacentSuburbIds": [
+      2030,
+      2031,
+      2342,
+      1994,
+      1995,
+      2390
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 9394,
+      "Name": "Ray White Barrington - Next Step Realty Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3322080",
+      "Website": "http://www.raywhite.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5375882-4.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5375882-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Michael Stewart",
+          "MobilePhoneNumber": "(021) 1444943",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4629817v5.jpg",
+          "UrlSlug": "Michael-Stewart",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Rochelle Poulter",
+          "MobilePhoneNumber": "(027) 4494848",
+          "OfficePhoneNumber": "(03) 3320002",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5928346v2.jpg",
+          "UrlSlug": "Rochelle-Poulter",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1740481200000)/"
+    }
+  },
+  {
+    "ListingId": 5130391552,
+    "Title": "Spacious Family Home in Avondale",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737333805870)/",
+    "EndDate": "/Date(1744679125423)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861607427)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515935.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2030,
+    "Suburb": "Avondale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.503719,
+      "Longitude": 172.700795,
+      "Northing": 5183202,
+      "Easting": 1575812,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $629,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515937.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515938.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515942.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515946.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515951.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515956.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515960.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515972.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515976.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515981.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515983.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515987.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515994.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515997.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181515998.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516001.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516004.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516010.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516015.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516019.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516025.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516032.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181516038.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181566351.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avondale/listing/5130391552",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2341280,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "12 Cowper Place",
+    "District": "Christchurch City",
+    "AgencyReference": "TRC24356",
+    "Area": 110,
+    "LandArea": 589,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 Car Garaging & Lockup.",
+    "PropertyType": "House",
+    "RateableValue": 560000,
+    "AdjacentSuburbNames": [
+      "Avondale",
+      "Aranui",
+      "Bexley",
+      "Dallington",
+      "Burwood",
+      "Wainoni"
+    ],
+    "AdjacentSuburbIds": [
+      2030,
+      2031,
+      2342,
+      1994,
+      1995,
+      2390
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 3804,
+      "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-663737",
+      "Website": "http://www.totalrealty.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+      "Branding": {
+        "BackgroundColor": "#f05e23",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#f05e23",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Tony Whalley",
+          "MobilePhoneNumber": "(027) 4482625",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6769659v3.jpg",
+          "UrlSlug": "Tony-Whalley-3",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Nicole Whalley",
+          "MobilePhoneNumber": "(022) 3452368",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8638870v1.jpg",
+          "UrlSlug": "Nicole-Whalley",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744679125423)/"
+    }
+  },
+  {
+    "ListingId": 5164528087,
+    "Title": "First Home Buying is a Breeze",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739158102787)/",
+    "EndDate": "/Date(1744589962787)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861607432)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536633.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2030,
+    "Suburb": "Avondale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739919600000)/",
+        "End": "/Date(1739921400000)/"
+      },
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740180600000)/"
+      },
+      {
+        "Start": "/Date(1740186000000)/",
+        "End": "/Date(1740187800000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267000000)/"
+      },
+      {
+        "Start": "/Date(1740272400000)/",
+        "End": "/Date(1740274200000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5092277,
+      "Longitude": 172.6899436,
+      "Northing": 5182587,
+      "Easting": 1574938,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 5 Mar, 10:00 am",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536658.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536642.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536639.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536634.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536643.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536644.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536645.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536647.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536648.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536651.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536654.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186536662.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avondale/listing/5164528087",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3556039,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "83 Breezes Road",
+    "District": "Christchurch City",
+    "AgencyReference": "MVE9365",
+    "LandArea": 645,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "RateableValue": 510000,
+    "AdjacentSuburbNames": [
+      "Avondale",
+      "Aranui",
+      "Bexley",
+      "Dallington",
+      "Burwood",
+      "Wainoni"
+    ],
+    "AdjacentSuburbIds": [
+      2030,
+      2031,
+      2342,
+      1994,
+      1995,
+      2390
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6150,
+      "Name": "Holmwood Real Estate Ltd Merivale, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3556677",
+      "Website": "http://www.holmwood.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556039-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3556039-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556039-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Clarence Monsanto",
+          "MobilePhoneNumber": "(027) 8688369",
+          "OfficePhoneNumber": "(027) 8688369",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7934722v9.jpg",
+          "UrlSlug": "Clarence-Monsanto",
+          "MembershipType": 0
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Matt Dawson",
+          "MobilePhoneNumber": "(021) 545058",
+          "OfficePhoneNumber": "(03) 3556677",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile390569v2.jpg",
+          "UrlSlug": "Matt-Dawson",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 4,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741122000000)/"
+    }
+  },
+  {
+    "ListingId": 5021497663,
+    "Title": "Sunny, Spacious, Street-facing",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1731631188637)/",
+    "EndDate": "/Date(1744620819453)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739861607438)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655765.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2030,
+    "Suburb": "Avondale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740174300000)/",
+        "End": "/Date(1740176100000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5139574,
+      "Longitude": 172.6898434,
+      "Northing": 5182062,
+      "Easting": 1574931,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655770.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655774.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655778.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655781.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655782.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655785.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655790.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655791.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655794.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655795.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655796.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655800.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655802.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655804.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655807.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655810.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655814.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655816.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2167655841.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avondale/listing/5021497663",
+    "MemberId": 3521816,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "1/138 Wainoni Road",
+    "District": "Christchurch City",
+    "AgencyReference": "PD7623",
+    "Area": 83,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "Unit",
+    "RateableValue": 370000,
+    "AdjacentSuburbNames": [
+      "Avondale",
+      "Aranui",
+      "Bexley",
+      "Dallington",
+      "Burwood",
+      "Wainoni"
+    ],
+    "AdjacentSuburbIds": [
+      2030,
+      2031,
+      2342,
+      1994,
+      1995,
+      2390
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6050,
+      "Name": "Gold Real Estate Group Parklands, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3830406",
+      "Website": "http://www.homes4sale.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3521816-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3521816-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Andrew Swift",
+          "MobilePhoneNumber": "(027) 4319621",
+          "OfficePhoneNumber": "(0800) 538766",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4531266v2.jpg",
+          "UrlSlug": "Andrew-SwiftAREINZ",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "StarterPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744620819453)/"
+    }
+  },
+  {
+    "ListingId": 5169438042,
+    "Title": "The Perfect Starter Home",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739427752207)/",
+    "EndDate": "/Date(1744586345217)/",
+    "ListingLength": null,
+    "HasGallery": true,
+    "AsAt": "/Date(1739861607442)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363520.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2030,
+    "Suburb": "Avondale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739923200000)/",
+        "End": "/Date(1739925000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.5138275,
+      "Longitude": 172.6881561,
+      "Northing": 5182076,
+      "Easting": 1574795,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $520,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363521.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363525.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363526.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363527.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363528.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363531.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363533.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363535.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363537.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363539.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363540.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363543.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363544.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363546.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363547.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363548.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363550.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avondale/listing/5169438042",
+    "MemberId": 8032087,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "11 Newport Street",
+    "District": "Christchurch City",
+    "AgencyReference": "RX4446695",
+    "Area": 90,
+    "LandArea": 610,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Garages: 2",
+    "PropertyType": "House",
+    "RateableValue": 510000,
+    "AdjacentSuburbNames": [
+      "Avondale",
+      "Aranui",
+      "Bexley",
+      "Dallington",
+      "Burwood",
+      "Wainoni"
+    ],
+    "AdjacentSuburbIds": [
+      2030,
+      2031,
+      2342,
+      1994,
+      1995,
+      2390
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15474,
+      "Name": "Lawrences Real Estate, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3588118",
+      "Website": "https://www.smmrealestate.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8032087-2.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8032087-office_branding-2.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8032087-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Trish Lawrence AREINZ",
+          "OfficePhoneNumber": "(027) 4350565",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2114333v7.jpg",
+          "UrlSlug": "Trish-LawrenceAREINZ",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744586345217)/"
+    }
+  },
+  {
+    "ListingId": 4821082175,
+    "Title": "Sunny in Avondale",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1721345832840)/",
+    "EndDate": "/Date(1740335253920)/",
+    "ListingLength": null,
+    "HasGallery": true,
+    "AsAt": "/Date(1739861607447)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722649.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2030,
+    "Suburb": "Avondale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.5061787,
+      "Longitude": 172.6870576,
+      "Northing": 5182925,
+      "Easting": 1574703,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722660.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722663.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722645.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722644.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722643.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722664.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722657.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722648.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722659.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722650.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722656.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722653.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722751.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722654.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722662.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722642.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2134722641.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avondale/listing/4821082175",
+    "MemberId": 72555,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "94 Avondale road",
+    "District": "Christchurch City",
+    "Amenities": "Supermarkets, gas stations, river, beaches, parks",
+    "Area": 127,
+    "LandArea": 607,
+    "Bathrooms": 1,
+    "Bedrooms": 4,
+    "BestContactTime": "Any time",
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "RateableValue": 600000,
+    "AdjacentSuburbNames": [
+      "Avondale",
+      "Aranui",
+      "Bexley",
+      "Dallington",
+      "Burwood",
+      "Wainoni"
+    ],
+    "AdjacentSuburbIds": [
+      2030,
+      2031,
+      2342,
+      1994,
+      1995,
+      2390
+    ],
+    "DistrictId": 60,
+    "Agency": null,
+    "TotalParking": 7,
+    "Lounges": 2,
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1740335253920)/"
+    }
+  }
+]

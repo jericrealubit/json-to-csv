@@ -1,0 +1,925 @@
+[
+    {
+        "ListingId": 5142875300,
+        "Title": "Smart, easy-care living and convenience",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738023869613)/",
+        "EndDate": "/Date(1743992429613)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739869107312)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398751.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2388,
+        "Suburb": "Avonside",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5240388,
+            "Longitude": 172.681975,
+            "Northing": 5180940,
+            "Easting": 1574300,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 19 Feb",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398773.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398780.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398787.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398792.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398801.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398807.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398814.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398818.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398825.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398826.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398827.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398831.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398833.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398834.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398838.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183398839.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avonside/listing/5142875300",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2696911,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "3 Wildwood Avenue",
+        "District": "Christchurch City",
+        "AgencyReference": "5526113",
+        "Area": 155,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Richmond",
+            "Phillipstown",
+            "Dallington",
+            "Linwood",
+            "Avonside",
+            "North Linwood",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2213,
+            2216,
+            1994,
+            2238,
+            2388,
+            2389,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 4600,
+            "Name": "Bayleys Christchurch, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3754700",
+            "Website": "http://www.bayleys.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2696911-10.jpg",
+            "Branding": {
+                "BackgroundColor": "#00234b",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#042249",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2696911-office_branding-7.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2696911-6.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Bianca Davidson",
+                    "MobilePhoneNumber": "(027) 3229055",
+                    "OfficePhoneNumber": "(03) 3754700",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5034237v7.jpg",
+                    "UrlSlug": "Bianca-Davidson",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 3,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1739876400000)/"
+        }
+    },
+    {
+        "ListingId": 5152674623,
+        "Title": "Comfort and Charm Await at This Home",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738537118620)/",
+        "EndDate": "/Date(1744459538620)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739869107315)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584784.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2388,
+        "Suburb": "Avonside",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740182400000)/",
+                "End": "/Date(1740184200000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.52243,
+            "Longitude": 172.667468,
+            "Northing": 5181114,
+            "Easting": 1573127,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $539,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584785.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584786.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584788.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584789.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584792.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584798.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584801.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584803.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584808.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584809.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584811.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584813.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584816.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584818.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584821.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584823.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584825.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584830.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584832.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584834.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584837.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584838.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184584840.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avonside/listing/5152674623",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2341280,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "66 Patten Street",
+        "District": "Christchurch City",
+        "AgencyReference": "TRC24406",
+        "Area": 60,
+        "LandArea": 617,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 Car Garaging & 4 Offstreet.",
+        "PropertyType": "House",
+        "RateableValue": 530000,
+        "AdjacentSuburbNames": [
+            "Richmond",
+            "Phillipstown",
+            "Dallington",
+            "Linwood",
+            "Avonside",
+            "North Linwood",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2213,
+            2216,
+            1994,
+            2238,
+            2388,
+            2389,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 3804,
+            "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-663737",
+            "Website": "http://www.totalrealty.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+            "Branding": {
+                "BackgroundColor": "#f05e23",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#f05e23",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Anita Middleton",
+                    "MobilePhoneNumber": "(022) 1512671",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6454846v7.jpg",
+                    "UrlSlug": "Anita-Middleton",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Ian Middleton",
+                    "MobilePhoneNumber": "(022) 1211925",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3922103v3.jpg",
+                    "UrlSlug": "Ian-Middleton",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 6,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744459538620)/"
+        }
+    },
+    {
+        "ListingId": 5137158651,
+        "Title": "Ready to Sell Vendors. All Offers Presented.",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737687818240)/",
+        "EndDate": "/Date(1743972398240)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739869107318)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609058.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2388,
+        "Suburb": "Avonside",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740275100000)/",
+                "End": "/Date(1740276900000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5222808,
+            "Longitude": 172.6738913,
+            "Northing": 5181133,
+            "Easting": 1573646,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $649,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609060.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609083.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609062.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609066.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609069.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609073.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609075.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609077.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609079.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609081.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609084.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182609086.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avonside/listing/5137158651",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2435087,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "39 Ngarimu Street",
+        "District": "Christchurch City",
+        "AgencyReference": "RG28828",
+        "Area": 108,
+        "LandArea": 506,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "RateableValue": 645000,
+        "AdjacentSuburbNames": [
+            "Richmond",
+            "Phillipstown",
+            "Dallington",
+            "Linwood",
+            "Avonside",
+            "North Linwood",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2213,
+            2216,
+            1994,
+            2238,
+            2388,
+            2389,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 4156,
+            "Name": "Harcourts Four Seasons Realty 2017 Ltd Rangiora, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3136158",
+            "Website": "http://harcourtsfourseasons.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2435087-13.jpg",
+            "Branding": {
+                "BackgroundColor": "#002049",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#002049",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2435087-office_branding-10.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2435087-3.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Jesse Herschell",
+                    "MobilePhoneNumber": "(021) 1537642",
+                    "OfficePhoneNumber": "(03) 3136158",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5585460v4.jpg",
+                    "UrlSlug": "Jesse-Herschell",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1743972398240)/"
+        }
+    },
+    {
+        "ListingId": 5166349065,
+        "Title": "Perfect First Home or Investment",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739258313360)/",
+        "EndDate": "/Date(1744096713360)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739869107341)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901071.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2388,
+        "Suburb": "Avonside",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740189600000)/",
+                "End": "/Date(1740191400000)/"
+            },
+            {
+                "Start": "/Date(1740276000000)/",
+                "End": "/Date(1740277800000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5235585,
+            "Longitude": 172.6783087,
+            "Northing": 5180992,
+            "Easting": 1574003,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 25 Feb",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901073.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901075.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901076.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901077.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901078.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901079.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901081.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901084.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901085.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901086.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901087.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901088.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901090.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901092.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901097.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901099.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901100.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901101.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901103.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901105.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901107.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901108.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186901111.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avonside/listing/5166349065",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 8007901,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "23 Rowcliffe Crescent",
+        "District": "Christchurch City",
+        "Area": 100,
+        "LandArea": 685,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "PropertyId": "JAZ455",
+        "AdjacentSuburbNames": [
+            "Richmond",
+            "Phillipstown",
+            "Dallington",
+            "Linwood",
+            "Avonside",
+            "North Linwood",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2213,
+            2216,
+            1994,
+            2238,
+            2388,
+            2389,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 15448,
+            "Name": "@Realty Limited, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-299377",
+            "Website": "http://www.atrealty.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8007901-1.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffffff",
+                "TextColor": "#000000",
+                "StrokeColor": "#000000",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8007901-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8007901-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Alison McCallum",
+                    "OfficePhoneNumber": "(022) 0610023",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1740394800000)/"
+        }
+    },
+    {
+        "ListingId": 5169441249,
+        "Title": "Ultimate Package - Comfort, Convenience & Value",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739427874003)/",
+        "EndDate": "/Date(1744589850927)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739869107344)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363894.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2388,
+        "Suburb": "Avonside",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1739940600000)/",
+                "End": "/Date(1739943000000)/"
+            },
+            {
+                "Start": "/Date(1740177900000)/",
+                "End": "/Date(1740179700000)/"
+            },
+            {
+                "Start": "/Date(1740264300000)/",
+                "End": "/Date(1740266100000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.521562,
+            "Longitude": 172.6810411,
+            "Northing": 5181215,
+            "Easting": 1574223,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 5 Mar",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363777.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363920.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363767.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363953.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363925.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363932.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363940.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363937.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363804.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363969.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363792.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363964.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187364006.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187364002.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363979.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363865.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363908.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363830.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363992.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363875.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187363853.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187469162.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avonside/listing/5169441249",
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 8524942,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "115 Kerrs Road",
+        "District": "Christchurch City",
+        "AgencyReference": "1554302",
+        "Area": 120,
+        "LandArea": 708,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Richmond",
+            "Phillipstown",
+            "Dallington",
+            "Linwood",
+            "Avonside",
+            "North Linwood",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2213,
+            2216,
+            1994,
+            2238,
+            2388,
+            2389,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 16203,
+            "Name": "Griffioen. (Powered by Ownly), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-2-76370231",
+            "Website": "http://www.griffioen.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8524942-1.jpg",
+            "Branding": {
+                "BackgroundColor": "#182d4c",
+                "TextColor": "#b2fce3",
+                "StrokeColor": "#182b4c",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8524942-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8524942-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Jonathan Borck",
+                    "OfficePhoneNumber": "(021) 1067276",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4187531v6.jpg",
+                    "UrlSlug": "Jonathan-Borck",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Caleb Griffioen",
+                    "OfficePhoneNumber": "(027) 6370231",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5909617v11.jpg",
+                    "UrlSlug": "Caleb-Griffioen",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1741086000000)/"
+        }
+    },
+    {
+        "ListingId": 4864764613,
+        "Title": "Executive residence or modern commercial premises",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1723604885097)/",
+        "EndDate": "/Date(1745804585097)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739869107348)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995872.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2388,
+        "Suburb": "Avonside",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5237368,
+            "Longitude": 172.6730554,
+            "Northing": 5180971,
+            "Easting": 1573579,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995878.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995883.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995888.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995895.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995899.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995905.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995911.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995914.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995917.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995921.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995929.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995937.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995945.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995954.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995961.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995969.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995972.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995977.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2139995982.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/avonside/listing/4864764613",
+        "MemberId": 2696911,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " 746 Gloucester Street",
+        "District": "Christchurch City",
+        "AgencyReference": "5524844",
+        "Area": 320,
+        "LandArea": 1295,
+        "Bathrooms": 4,
+        "Bedrooms": 6,
+        "ListingGroup": "PROPERTY",
+        "Parking": "17 off street carparks",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Richmond",
+            "Phillipstown",
+            "Dallington",
+            "Linwood",
+            "Avonside",
+            "North Linwood",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2213,
+            2216,
+            1994,
+            2238,
+            2388,
+            2389,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 4600,
+            "Name": "Bayleys Christchurch, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3754700",
+            "Website": "http://www.bayleys.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2696911-10.jpg",
+            "Branding": {
+                "BackgroundColor": "#00234b",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#042249",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2696911-office_branding-7.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2696911-6.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Kate Mullins",
+                    "MobilePhoneNumber": "(027) 2488456",
+                    "OfficePhoneNumber": "(03) 3754700",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile940397v3.jpg",
+                    "UrlSlug": "Kate-Mullins",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 6,
+        "Lounges": 2,
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1745804585097)/"
+        }
+    },
+    {
+        "ListingId": 5031422296,
+        "Title": "Your Riverside Dream Awaits!",
+        "Category": "0350-5748-3400-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1732147218590)/",
+        "EndDate": "/Date(1744144973640)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739869107350)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964199.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2388,
+        "Suburb": "Avonside",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5221012,
+            "Longitude": 172.6722742,
+            "Northing": 5181152,
+            "Easting": 1573515,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $315,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964206.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964213.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964223.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964238.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964250.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964272.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168964281.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sections-for-sale/canterbury/christchurch-city/avonside/listing/5031422296",
+        "MemberId": 5375882,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "648 Avonside Drive",
+        "District": "Christchurch City",
+        "AgencyReference": "BGN32885",
+        "LandArea": 506,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "Section",
+        "AdjacentSuburbNames": [
+            "Richmond",
+            "Phillipstown",
+            "Dallington",
+            "Linwood",
+            "Avonside",
+            "North Linwood",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2213,
+            2216,
+            1994,
+            2238,
+            2388,
+            2389,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 9394,
+            "Name": "Ray White Barrington - Next Step Realty Ltd, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3322080",
+            "Website": "http://www.raywhite.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5375882-4.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5375882-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Faron Poulter",
+                    "MobilePhoneNumber": "(027) 8624916",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4682445v4.jpg",
+                    "UrlSlug": "faron-poulter",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Rochelle Poulter",
+                    "MobilePhoneNumber": "(027) 4494848",
+                    "OfficePhoneNumber": "(03) 3320002",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5928346v2.jpg",
+                    "UrlSlug": "Rochelle-Poulter",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744144973640)/"
+        }
+    }
+]

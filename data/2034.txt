@@ -1,0 +1,4476 @@
+[
+    {
+        "ListingId": 5177641625,
+        "Title": "Estate Sale: One Owner Since New!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739857509813)/",
+        "EndDate": "/Date(1744697149910)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440720)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724405.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740024900000)/",
+                "End": "/Date(1740027600000)/"
+            },
+            {
+                "Start": "/Date(1740175200000)/",
+                "End": "/Date(1740177000000)/"
+            },
+            {
+                "Start": "/Date(1740189600000)/",
+                "End": "/Date(1740191400000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5206046,
+            "Longitude": 172.699735,
+            "Northing": 5181327,
+            "Easting": 1575734,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Auction on 15 Mar, 11:30 am",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724496.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724484.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724508.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724475.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724445.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724625.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724572.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724453.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724461.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724682.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724470.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724690.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724705.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724715.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724728.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724748.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724431.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724399.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724764.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724422.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2188724783.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 8524942,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "146 Shortland Street",
+        "District": "Christchurch City",
+        "AgencyReference": "1542297",
+        "LandArea": 607,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 16203,
+            "Name": "Griffioen. (Powered by Ownly), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-2-76370231",
+            "Website": "http://www.griffioen.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8524942-1.jpg",
+            "Branding": {
+                "BackgroundColor": "#182d4c",
+                "TextColor": "#b2fce3",
+                "StrokeColor": "#182b4c",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8524942-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8524942-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Caleb Griffioen",
+                    "OfficePhoneNumber": "(027) 6370231",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5909617v11.jpg",
+                    "UrlSlug": "Caleb-Griffioen",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Jonathan Borck",
+                    "OfficePhoneNumber": "(021) 1067276",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4187531v6.jpg",
+                    "UrlSlug": "Jonathan-Borck",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 2,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 3,
+            "PropertyDateOfSale": "/Date(1741991400000)/"
+        }
+    },
+    {
+        "ListingId": 5165905621,
+        "Title": "Deadline Brought Forward Wednesday 19th Feb",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739238391457)/",
+        "EndDate": "/Date(1744666351457)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440725)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807619.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.4908816,
+            "Longitude": 172.7240998,
+            "Northing": 5184634,
+            "Easting": 1577692,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 19 Feb",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807630.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807640.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807647.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807649.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807652.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807660.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807670.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807676.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807684.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807691.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807697.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807704.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807709.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807717.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807721.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807727.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807738.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807749.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807762.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807769.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807777.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807787.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807791.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807799.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186807807.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7639569,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "13 Effingham Street",
+        "District": "Christchurch City",
+        "Area": 100,
+        "LandArea": 750,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Off St Parking For 4+",
+        "PropertyType": "House",
+        "RateableValue": 530000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14719,
+            "Name": "Raine & Horne Parklands | New Brighton | Shirley | Burwood | Marshlands, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-500123",
+            "Website": "http://parklands.mikepero.com",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7639569-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffffff",
+                "TextColor": "#000000",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7639569-office_branding-7.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7639569-6.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Nick McIsaac-Luke",
+                    "MobilePhoneNumber": "(027) 3013870",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3196023v4.jpg",
+                    "UrlSlug": "Nick-McIsaacLuke",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Tina Lawson",
+                    "MobilePhoneNumber": "(022) 3513564",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6829647v3.jpg",
+                    "UrlSlug": "Tina-Lawson",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1739876400000)/"
+        }
+    },
+    {
+        "ListingId": 5051534446,
+        "Title": "* UNDER OFFER * First Home Buyers Or Retirees",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1733180032913)/",
+        "EndDate": "/Date(1743470452913)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440730)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645040.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.49714,
+            "Longitude": 172.715393,
+            "Northing": 5183937,
+            "Easting": 1576990,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $597,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645042.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645045.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645048.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645051.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645054.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645059.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645063.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645066.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645071.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645076.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2171645081.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2341280,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "174A Bowhill Road",
+        "District": "Christchurch City",
+        "AgencyReference": "TRC24272",
+        "LandArea": 377,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 Car Garaging & Lockup.",
+        "PropertyType": "Townhouse",
+        "RateableValue": 620000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 3804,
+            "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-663737",
+            "Website": "http://www.totalrealty.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+            "Branding": {
+                "BackgroundColor": "#f05e23",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#f05e23",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Di Clement",
+                    "MobilePhoneNumber": "(027) 4314614",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6914322v1.jpg",
+                    "UrlSlug": "Di-Clement",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1743470452913)/"
+        }
+    },
+    {
+        "ListingId": 5164376537,
+        "Title": "Enjoy Life Close To The Beach",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739150747583)/",
+        "EndDate": "/Date(1744672973857)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440732)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497240.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2043,
+        "Suburb": "South New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740186900000)/",
+                "End": "/Date(1740188700000)/"
+            },
+            {
+                "Start": "/Date(1740273300000)/",
+                "End": "/Date(1740275100000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.520639,
+            "Longitude": 172.729569,
+            "Northing": 5181331,
+            "Easting": 1578145,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $500,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497245.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497247.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497250.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497254.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497258.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497262.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497265.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497266.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497267.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497271.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497273.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497274.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497275.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497278.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497280.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497282.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497283.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497287.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497292.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497295.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497297.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497298.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497299.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497302.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186497304.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2341280,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "18B Falcon Street",
+        "District": "Christchurch City",
+        "AgencyReference": "TRC24455",
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 Car Garaging.",
+        "PropertyType": "Unit",
+        "RateableValue": 495000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 3804,
+            "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-663737",
+            "Website": "http://www.totalrealty.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+            "Branding": {
+                "BackgroundColor": "#f05e23",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#f05e23",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Hazel Wilson",
+                    "MobilePhoneNumber": "(021) 378789",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1101660v2.jpg",
+                    "UrlSlug": "Hazel-Wilson",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744672973857)/"
+        }
+    },
+    {
+        "ListingId": 5151890976,
+        "Title": "Space and Style on Sandown",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738479323240)/",
+        "EndDate": "/Date(1744606512657)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440735)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464527.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740259800000)/",
+                "End": "/Date(1740261600000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5115069,
+            "Longitude": 172.7066427,
+            "Northing": 5182339,
+            "Easting": 1576288,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $565,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464528.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464531.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464532.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464534.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464529.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464537.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464539.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464540.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464541.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464559.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464563.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464573.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464526.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464584.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464590.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464581.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464578.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184464593.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7214489,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "22 Sandown Crescent",
+        "District": "Christchurch City",
+        "AgencyReference": "TPNC3831",
+        "Area": 119,
+        "LandArea": 829,
+        "Bathrooms": 1,
+        "Bedrooms": 4,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 car garaging, 3 off street carparks",
+        "PropertyType": "House",
+        "RateableValue": 550000,
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14054,
+            "Name": "Tall Poppy North Canterbury, (Licensed: REAA 2008)",
+            "Website": "http://www.tallpoppy.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7214489-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#171046",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#171046",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7214489-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7214489-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Dave Lay",
+                    "MobilePhoneNumber": "(027) 6131065",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile9136446v1.jpg",
+                    "UrlSlug": "RachelDave-Lay",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Rachael Lay",
+                    "MobilePhoneNumber": "(027) 4422277",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/988196.jpg",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 5,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744606512657)/"
+        }
+    },
+    {
+        "ListingId": 5057259569,
+        "Title": "Perfect First Home Opportunity!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1733455017053)/",
+        "EndDate": "/Date(1744669913417)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440741)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338147.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1739939400000)/",
+                "End": "/Date(1739941200000)/"
+            },
+            {
+                "Start": "/Date(1740006000000)/",
+                "End": "/Date(1740007800000)/"
+            },
+            {
+                "Start": "/Date(1740178800000)/",
+                "End": "/Date(1740180600000)/"
+            },
+            {
+                "Start": "/Date(1740276000000)/",
+                "End": "/Date(1740277800000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4937426,
+            "Longitude": 172.7148983,
+            "Northing": 5184314,
+            "Easting": 1576949,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 24 Feb",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338157.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338159.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338161.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338166.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338170.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338175.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338184.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338189.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338195.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338200.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338208.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338213.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338218.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338223.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338233.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338243.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172338251.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 8492942,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "149 Tedder Avenue",
+        "District": "Christchurch City",
+        "Area": 71,
+        "LandArea": 541,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "RateableValue": 445000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 16155,
+            "Name": "eXp New Zealand Limited, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-2-1733309",
+            "Website": "https://www.expnewzealand.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8492942-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#000000",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#000000",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8492942-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8492942-2.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Dave Findlay",
+                    "OfficePhoneNumber": "(027) 2205874",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7881776v2.jpg",
+                    "UrlSlug": "Dave-Findlay-2",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1740308400000)/"
+        }
+    },
+    {
+        "ListingId": 5148212544,
+        "Title": "Affordable, Private, Tranquil Section",
+        "Category": "0350-5748-3400-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738284515910)/",
+        "EndDate": "/Date(1744588780190)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440744)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2184036388.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5156697,
+            "Longitude": 172.7036907,
+            "Northing": 5181876,
+            "Easting": 1576051,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $180,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184036390.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184036391.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184036393.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184036397.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2184036400.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3377487,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "379 Pages Road",
+        "District": "Christchurch City",
+        "AgencyReference": "RX4437363",
+        "LandArea": 750,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "Section",
+        "RateableValue": 530000,
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 5801,
+            "Name": "Cowdy, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3556555",
+            "Website": "http://www.cowdy.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3377487-5.jpg",
+            "Branding": {
+                "BackgroundColor": "#2b313d",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#333f48",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3377487-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Billy Lomax",
+                    "OfficePhoneNumber": "(021) 484361",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2552115v6.jpg",
+                    "UrlSlug": "Billy-Lomax-2",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744588780190)/"
+        }
+    },
+    {
+        "ListingId": 5170895549,
+        "Title": "A Move-in Ready, Must-See at $539,000!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739497743183)/",
+        "EndDate": "/Date(1744667984727)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440747)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537022.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1739923200000)/",
+                "End": "/Date(1739925000000)/"
+            },
+            {
+                "Start": "/Date(1740182400000)/",
+                "End": "/Date(1740184200000)/"
+            },
+            {
+                "Start": "/Date(1740268800000)/",
+                "End": "/Date(1740270600000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5159728,
+            "Longitude": 172.7093596,
+            "Northing": 5181844,
+            "Easting": 1576510,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $539,000",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537026.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537030.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537031.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537035.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537037.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537041.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537044.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537045.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537051.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187537052.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3369603,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "74 Rowan Avenue",
+        "District": "Christchurch City",
+        "AgencyReference": "AH24222",
+        "Area": 100,
+        "LandArea": 774,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "RateableValue": 325000,
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6145,
+            "Name": "Grenadier Real Estate Ltd Avonhead, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3582972",
+            "Website": "https://grenadier.harcourts.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3369603-3.jpg",
+            "Branding": {
+                "BackgroundColor": "#002049",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#002049",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3369603-office_branding-3.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Mark Holland",
+                    "MobilePhoneNumber": "(020) 41857668",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3056721v7.jpg",
+                    "UrlSlug": "Mark-Holland",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744667984727)/"
+        }
+    },
+    {
+        "ListingId": 5125678043,
+        "Title": "* UNDER OFFER * Owners moving overseas - must sell",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737069276673)/",
+        "EndDate": "/Date(1744581393590)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440750)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731594.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.510254,
+            "Longitude": 172.69756,
+            "Northing": 5182475,
+            "Easting": 1575554,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731604.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731623.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731595.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731597.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731599.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731603.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731607.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731611.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731613.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731617.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731620.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731643.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731648.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731651.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731654.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731658.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731662.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180731665.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2341280,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "62 Aldershot Street",
+        "District": "Christchurch City",
+        "AgencyReference": "TRC24358",
+        "LandArea": 698,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "No Garaging & 4 Offstreet.",
+        "PropertyType": "House",
+        "RateableValue": 470000,
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 3804,
+            "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-663737",
+            "Website": "http://www.totalrealty.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+            "Branding": {
+                "BackgroundColor": "#f05e23",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#f05e23",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Annette Jacob",
+                    "MobilePhoneNumber": "(027) 2903127",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3630726v1.jpg",
+                    "UrlSlug": "annette-jacob",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 4,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744581393590)/"
+        }
+    },
+    {
+        "ListingId": 5056852730,
+        "Title": "Beachside Beauty",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1733438030180)/",
+        "EndDate": "/Date(1744581209163)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440753)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273734.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.4919507,
+            "Longitude": 172.7189893,
+            "Northing": 5184514,
+            "Easting": 1577279,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $579,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273735.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273736.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273737.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273738.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273740.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273741.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273743.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273744.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273746.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273751.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273755.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273756.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172273758.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7723982,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "75 Tedder Avenue",
+        "District": "Christchurch City",
+        "AgencyReference": "RX4384436",
+        "Area": 110,
+        "LandArea": 541,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Garages: 1, Open Spaces: 4",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14858,
+            "Name": "Home Christchurch Limited, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-9301323",
+            "Website": "http://www.homechch.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-4.jpg",
+            "Branding": {
+                "BackgroundColor": "#dabf78",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#dabf78",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7723982-office_branding-4.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-3.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Kieren Gray",
+                    "OfficePhoneNumber": "(021) 363944",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7725256v8.jpg",
+                    "UrlSlug": "Kieren-Gray-2",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744581209163)/"
+        }
+    },
+    {
+        "ListingId": 5080007452,
+        "Title": "Solid Starter",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1734644539277)/",
+        "EndDate": "/Date(1744685932943)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440755)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444510.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740179700000)/",
+                "End": "/Date(1740181500000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.517019,
+            "Longitude": 172.710179,
+            "Northing": 5181728,
+            "Easting": 1576576,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444509.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444512.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444514.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444515.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444516.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444518.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444519.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444521.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444523.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444525.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444526.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444527.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444528.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444529.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444531.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444533.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444536.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444537.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444539.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444540.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444541.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444543.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444544.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444545.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444548.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175444549.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2341280,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "134 Rowses Road",
+        "District": "Christchurch City",
+        "AgencyReference": "TRC24326",
+        "LandArea": 614,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 Car Garaging.",
+        "PropertyType": "House",
+        "RateableValue": 560000,
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 3804,
+            "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-663737",
+            "Website": "http://www.totalrealty.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+            "Branding": {
+                "BackgroundColor": "#f05e23",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#f05e23",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Di Clement",
+                    "MobilePhoneNumber": "(027) 4314614",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6914322v1.jpg",
+                    "UrlSlug": "Di-Clement",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744685932943)/"
+        }
+    },
+    {
+        "ListingId": 5045035889,
+        "Title": "Two properties on one title",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1732830983600)/",
+        "EndDate": "/Date(1743386663600)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440757)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772669.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5227933,
+            "Longitude": 172.709253,
+            "Northing": 5181086,
+            "Easting": 1576504,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $745,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772675.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772680.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772684.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772686.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772689.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772691.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772696.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772698.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772699.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772705.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772707.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772708.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772710.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772711.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772712.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772713.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772714.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2170772716.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 6440162,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "415 Breezes Road",
+        "District": "Christchurch City",
+        "AgencyReference": "5524319",
+        "LandArea": 827,
+        "Bathrooms": 3,
+        "Bedrooms": 5,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "RateableValue": 550000,
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 12307,
+            "Name": "Bayleys Fendalton, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-5951504",
+            "Website": "https://www.bayleys.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6440162-5.jpg",
+            "Branding": {
+                "BackgroundColor": "#00234b",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#042249",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6440162-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6440162-5.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Sid Charoenpornsavat",
+                    "MobilePhoneNumber": "(027) 4212246",
+                    "OfficePhoneNumber": "(03) 5950709",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1732542v2.jpg",
+                    "UrlSlug": "Sid-charoenpornsavat",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Karan Shevde",
+                    "MobilePhoneNumber": "(021) 1069769",
+                    "OfficePhoneNumber": "(03) 5950709",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/982897.jpg",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "Lounges": 2,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1743386663600)/"
+        }
+    },
+    {
+        "ListingId": 5124110232,
+        "Title": "Aussie Bound - Must Be Sold",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1736998253863)/",
+        "EndDate": "/Date(1744670692130)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440763)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383879.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.4937397,
+            "Longitude": 172.7173722,
+            "Northing": 5184315,
+            "Easting": 1577149,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383924.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383883.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383888.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383892.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383894.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383898.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383901.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383904.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383909.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383914.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383919.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383880.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383927.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383934.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383945.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383950.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383954.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383957.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383959.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383961.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180383964.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3554713,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "39a Surfers Place",
+        "District": "Christchurch City",
+        "AgencyReference": "FM7268",
+        "Area": 140,
+        "LandArea": 456,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces, 2 open spaces",
+        "PropertyType": "House",
+        "RateableValue": 630000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6140,
+            "Name": "Grenadier Real Estate Ltd Ferrymead, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3847950",
+            "Website": "http://www.ferrymead.harcourts.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3554713-3.jpg",
+            "Branding": {
+                "BackgroundColor": "#002049",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#002049",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3554713-office_branding-4.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Emma Baird",
+                    "MobilePhoneNumber": "(027) 8281710",
+                    "OfficePhoneNumber": "(03) 3847950",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4067207v2.jpg",
+                    "UrlSlug": "emma-baird",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 4,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744670692130)/"
+        }
+    },
+    {
+        "ListingId": 5146390692,
+        "Title": "First HOME Coastal Abode",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738203464030)/",
+        "EndDate": "/Date(1744674722013)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440765)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841943.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740271500000)/",
+                "End": "/Date(1740272400000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4906469,
+            "Longitude": 172.7191331,
+            "Northing": 5184659,
+            "Easting": 1577290,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $629,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841946.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841948.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841950.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841951.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841953.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841957.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841961.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841963.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841966.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841967.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841968.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841970.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841973.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841975.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841976.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841978.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183841980.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7723982,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "80 Pacific Road",
+        "District": "Christchurch City",
+        "AgencyReference": "RX4364580",
+        "Area": 110,
+        "LandArea": 607,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Garages: 1",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14858,
+            "Name": "Home Christchurch Limited, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-9301323",
+            "Website": "http://www.homechch.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-4.jpg",
+            "Branding": {
+                "BackgroundColor": "#dabf78",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#dabf78",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7723982-office_branding-4.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-3.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Kurt Polson",
+                    "OfficePhoneNumber": "(027) 4656797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4640504v8.jpg",
+                    "UrlSlug": "Kurt-Polson",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Kieren Gray",
+                    "OfficePhoneNumber": "(021) 363944",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7725256v8.jpg",
+                    "UrlSlug": "Kieren-Gray-2",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744674722013)/"
+        }
+    },
+    {
+        "ListingId": 5123867692,
+        "Title": "Step Inside And Say Wow",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1736988097453)/",
+        "EndDate": "/Date(1744672857940)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440769)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335234.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740178800000)/",
+                "End": "/Date(1740180600000)/"
+            },
+            {
+                "Start": "/Date(1740269700000)/",
+                "End": "/Date(1740271500000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.486318,
+            "Longitude": 172.710375,
+            "Northing": 5185137,
+            "Easting": 1576580,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $690,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335237.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335241.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335244.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335247.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335250.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335252.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335254.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335256.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335257.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335260.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335262.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335264.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335268.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335271.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335272.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335275.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335277.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335281.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335283.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335285.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335289.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335293.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335296.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335301.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335307.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335337.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335340.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335341.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335343.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2341280,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "150 Beach Road",
+        "District": "Christchurch City",
+        "AgencyReference": "TRC24225",
+        "Area": 130,
+        "LandArea": 691,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 Car Garaging & 1 Offstreet.",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 3804,
+            "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-663737",
+            "Website": "http://www.totalrealty.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+            "Branding": {
+                "BackgroundColor": "#f05e23",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#f05e23",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Hazel Wilson",
+                    "MobilePhoneNumber": "(021) 378789",
+                    "OfficePhoneNumber": "(03) 9409797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1101660v2.jpg",
+                    "UrlSlug": "Hazel-Wilson",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 3,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744672857940)/"
+        }
+    },
+    {
+        "ListingId": 5031398054,
+        "Title": "New Year, New Price!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1732146262993)/",
+        "EndDate": "/Date(1744666763080)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440772)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960820.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740265200000)/",
+                "End": "/Date(1740267000000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4881173,
+            "Longitude": 172.7234091,
+            "Northing": 5184941,
+            "Easting": 1577635,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $799,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960823.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960826.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960824.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960827.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960829.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960833.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960837.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960842.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960850.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960855.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960869.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960881.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960890.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960896.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960898.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960900.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168960903.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 8224456,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "20 Marine Parade",
+        "District": "Christchurch City",
+        "AgencyReference": "HCG3225",
+        "LandArea": 511,
+        "Bathrooms": 1,
+        "Bedrooms": 4,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "RateableValue": 900000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 15818,
+            "Name": "Harcourts Cashmere - Grenadier Real Estate, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3653888",
+            "Website": "https://harcourts.net/nz/office/grenadier",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8224456-1.jpg",
+            "Branding": {
+                "BackgroundColor": "#002049",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8224456-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8224456-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Dean Cations",
+                    "MobilePhoneNumber": "(021) 0434840",
+                    "OfficePhoneNumber": "(03) 3653888",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1742125v4.jpg",
+                    "UrlSlug": "Dean-Cations",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Chelsea Main",
+                    "MobilePhoneNumber": "(027) 2227851",
+                    "OfficePhoneNumber": "(03) 3653888",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8693677v1.jpg",
+                    "UrlSlug": "Chelsea-Main",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744666763080)/"
+        }
+    },
+    {
+        "ListingId": 5146147704,
+        "Title": "Family Needs Meet Versatile Practicality",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738192374933)/",
+        "EndDate": "/Date(1744321445063)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440776)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797882.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.4879208,
+            "Longitude": 172.7162689,
+            "Northing": 5184961,
+            "Easting": 1577057,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797884.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797885.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797889.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797891.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797892.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797894.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797895.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797896.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797898.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797900.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797905.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797908.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797910.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797913.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797914.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797916.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797917.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797918.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797919.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797921.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797922.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183797924.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7723982,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "40 Royalist Avenue",
+        "District": "Christchurch City",
+        "AgencyReference": "RX4436647",
+        "Area": 180,
+        "LandArea": 637,
+        "Bathrooms": 2,
+        "Bedrooms": 5,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Garages: 2",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14858,
+            "Name": "Home Christchurch Limited, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-9301323",
+            "Website": "http://www.homechch.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-4.jpg",
+            "Branding": {
+                "BackgroundColor": "#dabf78",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#dabf78",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7723982-office_branding-4.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-3.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Kieren Gray",
+                    "OfficePhoneNumber": "(021) 363944",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7725256v8.jpg",
+                    "UrlSlug": "Kieren-Gray-2",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 2,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744321445063)/"
+        }
+    },
+    {
+        "ListingId": 5167509484,
+        "Title": "Here We Grow!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739331232597)/",
+        "EndDate": "/Date(1744597081223)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440779)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094320.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740181500000)/",
+                "End": "/Date(1740183300000)/"
+            },
+            {
+                "Start": "/Date(1740270600000)/",
+                "End": "/Date(1740272400000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5085813,
+            "Longitude": 172.7040039,
+            "Northing": 5182663,
+            "Easting": 1576074,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Auction on 6 Mar, 11:00 am",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094321.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094322.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094324.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094328.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094331.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094334.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094337.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094339.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094344.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094347.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094348.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094356.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187094358.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3516376,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "24 Bournemouth Crescent",
+        "District": "Christchurch City",
+        "AgencyReference": "CR54355",
+        "LandArea": 693,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces, 4 open spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6081,
+            "Name": "Grenadier Real Estate Ltd City, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3796596",
+            "Website": "http://www.grenadier.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3516376-3.jpg",
+            "Branding": {
+                "BackgroundColor": "#002049",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#002049",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3516376-office_branding-3.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3516376-2.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Connor Cleine",
+                    "MobilePhoneNumber": "(027) 3995463",
+                    "OfficePhoneNumber": "(03) 3796596",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6184242v4.jpg",
+                    "UrlSlug": "Connor-Cleine",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Jonny Nicholls",
+                    "MobilePhoneNumber": "(027) 9593979",
+                    "OfficePhoneNumber": "(03) 3796596",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile473161v2.jpg",
+                    "UrlSlug": "Jonny-nicholls",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 5,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 3,
+            "PropertyDateOfSale": "/Date(1741212000000)/"
+        }
+    },
+    {
+        "ListingId": 5029673333,
+        "Title": "Family HOME Built 2020",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1732068794313)/",
+        "EndDate": "/Date(1744593373113)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440784)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2168944894.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740269700000)/",
+                "End": "/Date(1740270600000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5222077,
+            "Longitude": 172.7080431,
+            "Northing": 5181151,
+            "Easting": 1576406,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $555,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761693.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761695.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761699.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761702.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761706.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761709.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761711.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761714.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761716.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761718.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761722.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168944901.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761725.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168761728.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2168944903.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7723982,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "397a Breezes Road",
+        "District": "Christchurch City",
+        "AgencyReference": "RX4363619",
+        "Area": 120,
+        "LandArea": 343,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Garages: 1, Open Spaces: 2",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14858,
+            "Name": "Home Christchurch Limited, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-9301323",
+            "Website": "http://www.homechch.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-4.jpg",
+            "Branding": {
+                "BackgroundColor": "#dabf78",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#dabf78",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7723982-office_branding-4.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7723982-3.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Kurt Polson",
+                    "OfficePhoneNumber": "(027) 4656797",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4640504v8.jpg",
+                    "UrlSlug": "Kurt-Polson",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744593373113)/"
+        }
+    },
+    {
+        "ListingId": 5155717986,
+        "Title": "First Home Buyers And Downsizers!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1738716218847)/",
+        "EndDate": "/Date(1744597039500)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440787)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2185165969.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740175200000)/",
+                "End": "/Date(1740177000000)/"
+            },
+            {
+                "Start": "/Date(1740261600000)/",
+                "End": "/Date(1740263400000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4904752,
+            "Longitude": 172.7212252,
+            "Northing": 5184679,
+            "Easting": 1577459,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 25 Feb",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185165891.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185165870.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185165902.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185165935.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166158.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166118.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166236.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166002.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166189.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166055.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166172.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166086.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166216.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2185166252.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 8326284,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "26 Tedder Avenue",
+        "District": "Christchurch City",
+        "AgencyReference": "1543416",
+        "Area": 80,
+        "LandArea": 352,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 15933,
+            "Name": "VVV Real Estate Limited powered by Agent X (2001) Ltd, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-508-888732",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8326284-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffffff",
+                "TextColor": "#000000",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8326284-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8326284-2.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Stefan Moir",
+                    "OfficePhoneNumber": "(027) 3212305",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8360418v4.jpg",
+                    "UrlSlug": "Stefan-Moir",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "PlatinumPackage",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1740394800000)/"
+        }
+    },
+    {
+        "ListingId": 5132093340,
+        "Title": "Estuary Living! Plus Studio",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737429422237)/",
+        "EndDate": "/Date(1744149122237)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440790)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846581.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2043,
+        "Suburb": "South New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5351951,
+            "Longitude": 172.738253,
+            "Northing": 5179717,
+            "Easting": 1578852,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846584.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846593.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846600.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846605.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846609.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846619.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846629.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846639.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846654.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846647.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846660.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846667.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846675.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846684.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846700.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846713.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846721.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846726.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846730.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181846736.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 1247373,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "355 Estuary Road",
+        "District": "Christchurch City",
+        "AgencyReference": "NWB32473",
+        "Area": 100,
+        "LandArea": 635,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 2059,
+            "Name": "Ray White New Brighton (Results Realty Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3822230",
+            "Website": "http://www.rwnewbrighton.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247373-9.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247373-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Holly Jones",
+                    "MobilePhoneNumber": "(021) 2579024",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5357436v4.jpg",
+                    "UrlSlug": "Holly-Jones",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Dominika Nova",
+                    "MobilePhoneNumber": "(021) 2579024",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7860355v2.jpg",
+                    "UrlSlug": "Dominika-Nova",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744149122237)/"
+        }
+    },
+    {
+        "ListingId": 4897659670,
+        "Title": "Easy Beach Living",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1725321406467)/",
+        "EndDate": "/Date(1743975226467)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440795)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899875.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2043,
+        "Suburb": "South New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5265703,
+            "Longitude": 172.7363353,
+            "Northing": 5180674,
+            "Easting": 1578694,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $589,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899882.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899886.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899883.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899898.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899901.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899903.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899889.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899894.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899906.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2174899908.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 6490023,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "187 Pine Avenue",
+        "District": "Christchurch City",
+        "Area": 100,
+        "LandArea": 373,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 12459,
+            "Name": "Irelands, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3772090",
+            "Website": "http://www.irelands.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6490023-8.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffffff",
+                "TextColor": "#000000",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6490023-office_branding-10.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6490023-8.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Erin Morrison",
+                    "MobilePhoneNumber": "(021) 557556",
+                    "OfficePhoneNumber": "(03) 3772090",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5984368v2.jpg",
+                    "UrlSlug": "Erin-Morrison",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Melissa Benge",
+                    "MobilePhoneNumber": "(021) 703023",
+                    "OfficePhoneNumber": "(03) 3772090",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8648592v3.jpg",
+                    "UrlSlug": "Melissa-Benge-3",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1743975226467)/"
+        }
+    },
+    {
+        "ListingId": 5141436184,
+        "Title": "All About Easy Kiwi Living!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737933725807)/",
+        "EndDate": "/Date(1744581545807)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440800)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145103.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740265200000)/",
+                "End": "/Date(1740267000000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5193497,
+            "Longitude": 172.7002652,
+            "Northing": 5181466,
+            "Easting": 1575776,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $449,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145106.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145107.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145108.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145110.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145109.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145111.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145112.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145113.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145114.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145119.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145116.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145115.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145118.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145120.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145122.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183145124.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2064317148.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7503979,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "1/11a Lenton Street",
+        "District": "Christchurch City",
+        "AgencyReference": "RX4370343",
+        "Area": 90,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Garages: 1",
+        "PropertyType": "Unit",
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14521,
+            "Name": "Lime Real Estate, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-9281062",
+            "Website": "https://www.limerealestate.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7503979-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#b6dc79",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7503979-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7503979-2.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Brooke Azzopardi",
+                    "OfficePhoneNumber": "(029) 7776706",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5577794v4.jpg",
+                    "UrlSlug": "Brooke-Azzopardi",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Anna Pethig",
+                    "OfficePhoneNumber": "(027) 9134909",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7576379v2.jpg",
+                    "UrlSlug": "Anna-Pethig",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744581545807)/"
+        }
+    },
+    {
+        "ListingId": 5164131328,
+        "Title": "Seller: \"Sell as is where is, I need the funds!\"",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739137349273)/",
+        "EndDate": "/Date(1743977549273)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440805)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433956.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2043,
+        "Suburb": "South New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1739926800000)/",
+                "End": "/Date(1739928600000)/"
+            },
+            {
+                "Start": "/Date(1740186000000)/",
+                "End": "/Date(1740187800000)/"
+            },
+            {
+                "Start": "/Date(1740531600000)/",
+                "End": "/Date(1740533400000)/"
+            },
+            {
+                "Start": "/Date(1740790800000)/",
+                "End": "/Date(1740792600000)/"
+            },
+            {
+                "Start": "/Date(1741136400000)/",
+                "End": "/Date(1741138200000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5241901,
+            "Longitude": 172.7327666,
+            "Northing": 5180937,
+            "Easting": 1578404,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Auction on 6 Mar, 12:00 pm",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433962.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433968.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433971.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433979.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433984.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433985.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433990.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2186433994.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 6609359,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "104 Estuary Road",
+        "District": "Christchurch City",
+        "AgencyReference": "5526208",
+        "Area": 100,
+        "LandArea": 759,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 car garaging",
+        "PropertyType": "House",
+        "RateableValue": 405000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 12694,
+            "Name": "Bayleys Sumner, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-5952844",
+            "Website": "http://www.bayleys.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6609359-5.jpg",
+            "Branding": {
+                "BackgroundColor": "#00234b",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#042249",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6609359-office_branding-4.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6609359-3.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "David Archibald",
+                    "MobilePhoneNumber": "(027) 4369130",
+                    "OfficePhoneNumber": "(03) 5952844",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2885251v3.jpg",
+                    "UrlSlug": "DAVID-ARCHIBALD",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 3,
+            "PropertyDateOfSale": "/Date(1741215600000)/"
+        }
+    },
+    {
+        "ListingId": 5078813191,
+        "Title": "Inviting All Offers",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1734583251507)/",
+        "EndDate": "/Date(1744607541860)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440808)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2178587473.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2031,
+        "Suburb": "Aranui",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740262500000)/",
+                "End": "/Date(1740264300000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.5083357,
+            "Longitude": 172.7068279,
+            "Northing": 5182691,
+            "Easting": 1576302,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345470.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345471.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178577163.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178597719.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345504.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345505.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178608561.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2177654661.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345465.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345511.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345519.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345468.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345475.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345502.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175345494.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7214489,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "65 Eureka Street",
+        "District": "Christchurch City",
+        "AgencyReference": "TPNC2930",
+        "Area": 96,
+        "LandArea": 685,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 car garaging, 2 off street carparks",
+        "PropertyType": "House",
+        "RateableValue": 485000,
+        "AdjacentSuburbNames": [
+            "Avondale",
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley",
+            "Wainoni"
+        ],
+        "AdjacentSuburbIds": [
+            2030,
+            2031,
+            2032,
+            2034,
+            2043,
+            2342,
+            2390
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14054,
+            "Name": "Tall Poppy North Canterbury, (Licensed: REAA 2008)",
+            "Website": "http://www.tallpoppy.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7214489-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#171046",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#171046",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7214489-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7214489-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Rachael Lay",
+                    "MobilePhoneNumber": "(027) 4422277",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/988196.jpg",
+                    "MembershipType": 2
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Dave Lay",
+                    "MobilePhoneNumber": "(027) 6131065",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile9136446v1.jpg",
+                    "UrlSlug": "RachelDave-Lay",
+                    "MembershipType": 2
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 4,
+        "Lounges": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744607541860)/"
+        }
+    },
+    {
+        "ListingId": 4946740546,
+        "Title": "Must be sold - bring us an offer!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1727831012397)/",
+        "EndDate": "/Date(1744685699997)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440812)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2165428667.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2043,
+        "Suburb": "South New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740177900000)/",
+                "End": "/Date(1740179700000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.526423,
+            "Longitude": 172.7310685,
+            "Northing": 5180689,
+            "Easting": 1578268,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $839,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056656.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056662.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056664.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056668.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056670.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056678.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056685.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056698.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056701.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056704.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056706.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056711.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056714.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056717.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056732.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056738.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056747.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056748.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056751.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056755.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056758.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056763.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056767.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056770.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056778.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056787.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056795.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056798.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056806.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056811.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056814.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056818.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056821.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056824.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056830.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2157056838.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 1247373,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "7 Seafield Place",
+        "District": "Christchurch City",
+        "AgencyReference": "NWB32172",
+        "Area": 211,
+        "LandArea": 555,
+        "Bathrooms": 2,
+        "Bedrooms": 4,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 2059,
+            "Name": "Ray White New Brighton (Results Realty Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3822230",
+            "Website": "http://www.rwnewbrighton.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247373-9.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247373-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Holly Jones",
+                    "MobilePhoneNumber": "(021) 660095",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5357436v4.jpg",
+                    "UrlSlug": "Holly-Jones",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Charlotte Mason",
+                    "MobilePhoneNumber": "(021) 660095",
+                    "OfficePhoneNumber": "(03) 3822230",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4620716v4.jpg",
+                    "UrlSlug": "Charlotte-Mason",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 3,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744685699997)/"
+        }
+    },
+    {
+        "ListingId": 5124040082,
+        "Title": "Your Private Oasis Awaits! - 2019 build",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1736995771773)/",
+        "EndDate": "/Date(1744685579227)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440818)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300086.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740177900000)/",
+                "End": "/Date(1740179700000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4963209,
+            "Longitude": 172.7150731,
+            "Northing": 5184028,
+            "Easting": 1576964,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $749,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165299991.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300000.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300004.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300009.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300015.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300026.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300038.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300045.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300049.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300066.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300061.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300073.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300077.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300083.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300091.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300096.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300093.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300107.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300111.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300113.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300124.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300130.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300141.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165300152.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 1247373,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "1/18 Rookwood Avenue",
+        "District": "Christchurch City",
+        "AgencyReference": "NWB32480",
+        "Area": 154,
+        "LandArea": 539,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 2059,
+            "Name": "Ray White New Brighton (Results Realty Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3822230",
+            "Website": "http://www.rwnewbrighton.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247373-9.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247373-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Holly Jones",
+                    "MobilePhoneNumber": "(021) 660095",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5357436v4.jpg",
+                    "UrlSlug": "Holly-Jones",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Charlotte Mason",
+                    "MobilePhoneNumber": "(021) 660095",
+                    "OfficePhoneNumber": "(03) 3822230",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4620716v4.jpg",
+                    "UrlSlug": "Charlotte-Mason",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744685579227)/"
+        }
+    },
+    {
+        "ListingId": 5055263371,
+        "Title": "Act Fast! Freehold Home - Must Sell Now!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1733367168973)/",
+        "EndDate": "/Date(1744076448973)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440823)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142352.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.4908655,
+            "Longitude": 172.7113387,
+            "Northing": 5184633,
+            "Easting": 1576660,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $419,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142350.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142354.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142355.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142356.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142359.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142361.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2172142362.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3751330,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "285A Bower Ave",
+        "District": "Christchurch City",
+        "AgencyReference": "MET39047",
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6511,
+            "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3430219",
+            "Website": "http://www.rwmetro.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Ella Richardson",
+                    "MobilePhoneNumber": "(022) 0894916",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8127177v1.jpg",
+                    "UrlSlug": "Ella-Richardson",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1744076448973)/"
+        }
+    },
+    {
+        "ListingId": 5122494147,
+        "Title": "Tovey Sweet!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1736917461013)/",
+        "EndDate": "/Date(1744577681143)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440825)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188675.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2043,
+        "Suburb": "South New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5175427,
+            "Longitude": 172.7313194,
+            "Northing": 5181675,
+            "Easting": 1578285,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188679.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188683.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188685.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188687.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188689.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188692.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188696.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188701.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188705.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188709.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188712.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188716.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188720.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188723.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188727.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188731.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188736.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188740.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188742.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188745.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188747.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188750.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188756.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188761.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188802.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188769.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188790.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180188780.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7685469,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "39 Tovey Street",
+        "District": "Christchurch City",
+        "AgencyReference": "180",
+        "Area": 129,
+        "LandArea": 607,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14828,
+            "Name": "People & Property, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-2-74216016",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7685469-1.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffffff",
+                "TextColor": "#000000",
+                "StrokeColor": "",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7685469-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7685469-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Alex Fort",
+                    "MobilePhoneNumber": "(027) 4216016",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7685469v4.jpg",
+                    "UrlSlug": "Alex-Fort-2",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744577681143)/"
+        }
+    },
+    {
+        "ListingId": 5133704056,
+        "Title": "Auction Brought Forward - Weds @ 5pm",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737517757970)/",
+        "EndDate": "/Date(1744229297957)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440828)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090610.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.4894395,
+            "Longitude": 172.7217979,
+            "Northing": 5184794,
+            "Easting": 1577505,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Auction on 12 Feb, 5:00 pm",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090616.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090619.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090624.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090633.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090640.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090649.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090668.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090683.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090698.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090708.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090726.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090747.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090776.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090791.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182090811.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 1247373,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "2/42 Pacific Road",
+        "District": "Christchurch City",
+        "AgencyReference": "NWB32458",
+        "Area": 93,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "RateableValue": 540000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 2059,
+            "Name": "Ray White New Brighton (Results Realty Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3822230",
+            "Website": "http://www.rwnewbrighton.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247373-9.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247373-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Holly Jones",
+                    "MobilePhoneNumber": "(021) 2579024",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5357436v4.jpg",
+                    "UrlSlug": "Holly-Jones",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Dominika Nova",
+                    "MobilePhoneNumber": "(021) 2579024",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7860355v2.jpg",
+                    "UrlSlug": "Dominika-Nova",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 3,
+            "PropertyDateOfSale": "/Date(1739332800000)/"
+        }
+    },
+    {
+        "ListingId": 5167298707,
+        "Title": "Charm, Comfort and Convenience!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739321550507)/",
+        "EndDate": "/Date(1744684851073)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440838)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052611.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740261600000)/",
+                "End": "/Date(1740263400000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.488799,
+            "Longitude": 172.7139966,
+            "Northing": 5184863,
+            "Easting": 1576874,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 4 Mar",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052620.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052627.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052637.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052645.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052648.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052653.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052655.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052661.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052664.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052671.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052674.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052678.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052687.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052693.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052695.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052699.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052708.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187052712.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 1247373,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "7 Inverell Place",
+        "District": "Christchurch City",
+        "AgencyReference": "NWB32356",
+        "Area": 105,
+        "LandArea": 563,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 2059,
+            "Name": "Ray White New Brighton (Results Realty Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3822230",
+            "Website": "http://www.rwnewbrighton.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247373-9.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247373-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Holly Jones",
+                    "MobilePhoneNumber": "(021) 2579024",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5357436v4.jpg",
+                    "UrlSlug": "Holly-Jones",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Dominika Nova",
+                    "MobilePhoneNumber": "(021) 2579024",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7860355v2.jpg",
+                    "UrlSlug": "Dominika-Nova",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1740999600000)/"
+        }
+    },
+    {
+        "ListingId": 5167254940,
+        "Title": "Hop Skip Jump to Beach Front",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739319560483)/",
+        "EndDate": "/Date(1744615642803)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440861)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044148.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740015000000)/",
+                "End": "/Date(1740017700000)/"
+            },
+            {
+                "Start": "/Date(1740186000000)/",
+                "End": "/Date(1740188700000)/"
+            },
+            {
+                "Start": "/Date(1740270600000)/",
+                "End": "/Date(1740272400000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4876058,
+            "Longitude": 172.7225503,
+            "Northing": 5184998,
+            "Easting": 1577565,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 5 Mar",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044155.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044163.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044167.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044170.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044179.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044182.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044187.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044193.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044199.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044209.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044215.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044223.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044235.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044239.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044246.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044251.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044257.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044265.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044266.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044268.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187044270.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187103783.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 7663732,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "1/23 Pandora Street",
+        "District": "Christchurch City",
+        "Area": 80,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Lock up garage.",
+        "PropertyType": "Unit",
+        "RateableValue": 465000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 14756,
+            "Name": "Raine & Horne Papanui, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-MPRESOLD",
+            "Website": "https://northcote.mikepero.com",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7663732-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffffff",
+                "TextColor": "#000000",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/7663732-office_branding-7.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/7663732-6.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Annette Pendergast",
+                    "MobilePhoneNumber": "(022) 0902627",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6049476v2.jpg",
+                    "UrlSlug": "Annette-Pendergast",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1741086000000)/"
+        }
+    },
+    {
+        "ListingId": 5167191770,
+        "Title": "AS IS WHERE IS - Big Home, Bigger Potential!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739316360523)/",
+        "EndDate": "/Date(1744579120000)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440866)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032784.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1739937600000)/",
+                "End": "/Date(1739939400000)/"
+            },
+            {
+                "Start": "/Date(1740175200000)/",
+                "End": "/Date(1740177000000)/"
+            },
+            {
+                "Start": "/Date(1740267000000)/",
+                "End": "/Date(1740268800000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4876812,
+            "Longitude": 172.7094155,
+            "Northing": 5184986,
+            "Easting": 1576503,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Auction on 6 Mar, 11:00 am",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032668.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032780.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032806.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032724.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032705.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032713.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032710.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032701.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032702.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032699.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032673.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032683.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032692.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032694.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032726.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032729.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032758.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032716.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032717.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032721.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032736.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032763.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032772.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032743.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032748.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032753.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032788.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032791.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032812.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032816.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032823.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032826.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032833.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032845.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032855.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032862.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187032864.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 3751330,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "25 Flemington Avenue",
+        "District": "Christchurch City",
+        "AgencyReference": "MCN37702",
+        "LandArea": 854,
+        "Bathrooms": 2,
+        "Bedrooms": 4,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6511,
+            "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3430219",
+            "Website": "http://www.rwmetro.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Rebecca Toone",
+                    "MobilePhoneNumber": "(027) 3553304",
+                    "OfficePhoneNumber": "(03) 3430219",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3184112v2.jpg",
+                    "UrlSlug": "Rebecca-Toone-2",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 3,
+            "PropertyDateOfSale": "/Date(1741212000000)/"
+        }
+    },
+    {
+        "ListingId": 5167124415,
+        "Title": "Pizza Nights & Coastal Vibes!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739312629710)/",
+        "EndDate": "/Date(1744574069400)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739879440868)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017486.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2032,
+        "Suburb": "North New Brighton",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [
+            {
+                "Start": "/Date(1740175200000)/",
+                "End": "/Date(1740177000000)/"
+            },
+            {
+                "Start": "/Date(1740261600000)/",
+                "End": "/Date(1740263400000)/"
+            }
+        ],
+        "GeographicLocation": {
+            "Latitude": -43.4896621,
+            "Longitude": 172.7234392,
+            "Northing": 5184770,
+            "Easting": 1577638,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Deadline sale by 4 Mar",
+        "IsSuperFeatured": true,
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017492.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017495.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017496.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017499.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017501.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017503.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017507.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017510.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017515.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017517.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017522.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017527.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017534.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017537.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017540.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017542.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017546.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017547.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017550.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017552.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2187017554.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "ListingExtras": [
+            "premium_listing"
+        ],
+        "MemberId": 2548643,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "9 Jutland Street",
+        "District": "Christchurch City",
+        "AgencyReference": "OPA31252",
+        "LandArea": 506,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces, 2 open spaces",
+        "PropertyType": "House",
+        "RateableValue": 540000,
+        "AdjacentSuburbNames": [
+            "Aranui",
+            "North New Brighton",
+            "New Brighton",
+            "South New Brighton",
+            "Bexley"
+        ],
+        "AdjacentSuburbIds": [
+            2031,
+            2032,
+            2034,
+            2043,
+            2342
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 4249,
+            "Name": "Ray White Ferrymead (Prier Manson Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3844179",
+            "Website": "http://www.rwferrymead.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2548643-9.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2548643-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Ahmad Sultani",
+                    "MobilePhoneNumber": "(021) 1047115",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8209031v3.jpg",
+                    "UrlSlug": "Ahmad-Sultani",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 3,
+        "PremiumPackageCode": "SF1PL3Boost71421",
+        "PropertySaleInformation": {
+            "PropertySaleType": 7,
+            "PropertyDateOfSale": "/Date(1740999600000)/"
+        }
+    }
+]

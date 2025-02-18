@@ -1,0 +1,2932 @@
+[
+  {
+    "ListingId": 5177113776,
+    "Title": "Solid, Easy-Care & Packed with Potential!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739831916477)/",
+    "EndDate": "/Date(1744677230627)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521418)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593535.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739919600000)/",
+        "End": "/Date(1739922300000)/"
+      },
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740181500000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267900000)/"
+      },
+      {
+        "Start": "/Date(1740277800000)/",
+        "End": "/Date(1740279600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4880744,
+      "Longitude": 172.5960623,
+      "Northing": 5184904,
+      "Easting": 1567337,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 11 Mar",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593543.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593553.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593583.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593589.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593598.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593606.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593613.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593622.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5177113776",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1247399,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "438A Greers Road",
+    "District": "Christchurch City",
+    "AgencyReference": "SHI32229",
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 2086,
+      "Name": "Ray White Innes Road, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3860311",
+      "Website": "http://www.rwshirley.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247399-11.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1247399-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1247399-1.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Benny Jiang",
+          "MobilePhoneNumber": "(021) 0422044",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3585262v3.jpg",
+          "UrlSlug": "Benny-Jiang",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Christy Foo",
+          "MobilePhoneNumber": "(021) 731188",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/980105.jpg",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1741604400000)/"
+    }
+  },
+  {
+    "ListingId": 5141298033,
+    "Title": "Once in a Blue Moon! Make an offer",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737925957677)/",
+    "EndDate": "/Date(1744574197677)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521421)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116146.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740276000000)/",
+        "End": "/Date(1740277800000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4882073,
+      "Longitude": 172.5801006,
+      "Northing": 5184883,
+      "Easting": 1566047,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116142.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116145.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116159.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116151.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116165.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116171.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116178.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116180.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116181.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116184.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116193.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116203.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116212.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183116217.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5141298033",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 6720522,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "21 Murmont Street",
+    "District": "Christchurch City",
+    "AgencyReference": "5526094",
+    "Area": 160,
+    "Bathrooms": 2,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 car garaging",
+    "PropertyType": "Townhouse",
+    "RateableValue": 700000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 12960,
+      "Name": "Bayleys Prestons, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-5950709",
+      "Website": "https://www.bayleys.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6720522-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#00234b",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#042249",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6720522-office_branding-1.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6720522-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Bob Eastgate",
+          "MobilePhoneNumber": "(027) 4988733",
+          "OfficePhoneNumber": "(03) 5950709",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3472526v2.jpg",
+          "UrlSlug": "Bob-Eastgate",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744574197677)/"
+    }
+  },
+  {
+    "ListingId": 5169085881,
+    "Title": "Quality Education, Real Motivation",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739413770957)/",
+    "EndDate": "/Date(1744669728383)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521424)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316314.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739919600000)/",
+        "End": "/Date(1739921400000)/"
+      },
+      {
+        "Start": "/Date(1740180600000)/",
+        "End": "/Date(1740182400000)/"
+      },
+      {
+        "Start": "/Date(1740267000000)/",
+        "End": "/Date(1740268800000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.493955,
+      "Longitude": 172.5823774,
+      "Northing": 5184245,
+      "Easting": 1566234,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 6 Mar, 11:0 am",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316324.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316331.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316342.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316355.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316366.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316376.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316383.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316387.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316389.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316395.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316398.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316402.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316404.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316407.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187316408.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5169085881",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 8147298,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "54 Bethel Crescent",
+    "District": "Christchurch City",
+    "AgencyReference": "WGM3573",
+    "Area": 110,
+    "LandArea": 698,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 740000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15671,
+      "Name": "Harcourts Grenadier Wigram, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3412127",
+      "Website": "https://grenadier.harcourts.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8147298-2.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/125-franchise_branding-2.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8147298-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Lin Ma",
+          "MobilePhoneNumber": "(027) 5117788",
+          "OfficePhoneNumber": "(03) 3571188",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6117834v7.jpg",
+          "UrlSlug": "Lin-Ma",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741212000000)/"
+    }
+  },
+  {
+    "ListingId": 5169046033,
+    "Title": "Families, First-Home Buyers, or Savvy Investors!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739412143690)/",
+    "EndDate": "/Date(1744262655427)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521426)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187353391.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739923200000)/",
+        "End": "/Date(1739925000000)/"
+      },
+      {
+        "Start": "/Date(1740182400000)/",
+        "End": "/Date(1740185100000)/"
+      },
+      {
+        "Start": "/Date(1740268800000)/",
+        "End": "/Date(1740271500000)/"
+      },
+      {
+        "Start": "/Date(1740528000000)/",
+        "End": "/Date(1740529800000)/"
+      },
+      {
+        "Start": "/Date(1740787200000)/",
+        "End": "/Date(1740789900000)/"
+      },
+      {
+        "Start": "/Date(1740873600000)/",
+        "End": "/Date(1740876300000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4905677,
+      "Longitude": 172.5832964,
+      "Northing": 5184622,
+      "Easting": 1566307,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 13 Mar, 11:00 am",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187349749.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310080.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310082.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310086.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310091.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310098.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310100.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310102.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310106.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187310116.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5169046033",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3369603,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "25 Newmark Street",
+    "District": "Christchurch City",
+    "AgencyReference": "AH23972",
+    "LandArea": 650,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 680000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6145,
+      "Name": "Grenadier Real Estate Ltd Avonhead, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3582972",
+      "Website": "https://grenadier.harcourts.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3369603-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3369603-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Julissa Albengrin",
+          "MobilePhoneNumber": "(021) 2112331",
+          "OfficePhoneNumber": "(03) 3251010",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2330067v2.jpg",
+          "UrlSlug": "Julissa-Albengrin",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741816800000)/"
+    }
+  },
+  {
+    "ListingId": 5167486073,
+    "Title": "Expansive, Elegant & Exceptionally Located!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739330252350)/",
+    "EndDate": "/Date(1744684569910)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521428)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089837.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740186000000)/",
+        "End": "/Date(1740187800000)/"
+      },
+      {
+        "Start": "/Date(1740261600000)/",
+        "End": "/Date(1740263400000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4854727,
+      "Longitude": 172.5840091,
+      "Northing": 5185188,
+      "Easting": 1566361,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 6 Mar",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089838.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089839.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089840.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089842.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089844.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089846.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089847.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089849.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089851.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089853.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089854.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089855.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089857.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089858.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089877.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089879.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089880.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089882.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089885.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089888.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089892.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187089893.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5167486073",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3377487,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "11 Kingrove Street",
+    "District": "Christchurch City",
+    "AgencyReference": "RX4449847",
+    "Area": 170,
+    "LandArea": 718,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Garages: 2",
+    "PropertyType": "House",
+    "RateableValue": 720000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 5801,
+      "Name": "Cowdy, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3556555",
+      "Website": "http://www.cowdy.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3377487-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#2b313d",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#333f48",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3377487-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jake Wieblitz",
+          "OfficePhoneNumber": "(027) 2397176",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7208907v3.jpg",
+          "UrlSlug": "Jake-Wieblitz",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Tom Rennie",
+          "OfficePhoneNumber": "(021) 08383232",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5475549v5.jpg",
+          "UrlSlug": "Tom-Rennie",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1741172400000)/"
+    }
+  },
+  {
+    "ListingId": 5144295430,
+    "Title": "* UNDER OFFER * A PRIVATE OASIS!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738102648737)/",
+    "EndDate": "/Date(1744546506780)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521431)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596828.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.490121,
+      "Longitude": 172.573131,
+      "Northing": 5184667,
+      "Easting": 1565484,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $770,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596831.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596833.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596837.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596841.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596842.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596845.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596848.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596850.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596852.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596854.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596855.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596857.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5144295430",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2341280,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "17 Todd Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "TRC24351",
+    "Area": 120,
+    "LandArea": 607,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 Car Garaging & Lockup.",
+    "PropertyType": "House",
+    "RateableValue": 710000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 3804,
+      "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-663737",
+      "Website": "http://www.totalrealty.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+      "Branding": {
+        "BackgroundColor": "#f05e23",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#f05e23",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Dianne Dando",
+          "MobilePhoneNumber": "(027) 4370571",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6928072v1.jpg",
+          "UrlSlug": "Dianne-Dando-2",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744546506780)/"
+    }
+  },
+  {
+    "ListingId": 5165863903,
+    "Title": "Are You The Lucky Buyer?",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739236252630)/",
+    "EndDate": "/Date(1744577932630)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521433)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794135.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739925900000)/",
+        "End": "/Date(1739927700000)/"
+      },
+      {
+        "Start": "/Date(1740177900000)/",
+        "End": "/Date(1740179700000)/"
+      },
+      {
+        "Start": "/Date(1740264300000)/",
+        "End": "/Date(1740266100000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4846148,
+      "Longitude": 172.583395,
+      "Northing": 5185283,
+      "Easting": 1566311,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 26 Feb",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794142.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794160.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794173.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794186.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794200.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794204.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794214.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794218.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794223.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794225.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794229.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794232.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794239.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794253.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794269.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794286.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794289.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794293.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794298.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794304.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794312.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794318.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794322.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794326.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186794329.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5165863903",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 4151227,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "1/22 Kingrove Street",
+    "District": "Christchurch City",
+    "AgencyReference": "BHP30956",
+    "Area": 160,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 7163,
+      "Name": "Ray White Bishopdale (Inline Realty Ltd), (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3591627",
+      "Website": "https://rwbishopdale.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4151227-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4151227-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Barry Ellis",
+          "MobilePhoneNumber": "(021) 519274",
+          "OfficePhoneNumber": "(03) 3591627",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6059226v2.jpg",
+          "UrlSlug": "Barry-Ellis",
+          "MembershipType": 0
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Karen Ellis",
+          "MobilePhoneNumber": "(021) 519275",
+          "OfficePhoneNumber": "(03) 3591627",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4687216v3.jpg",
+          "UrlSlug": "Karen-Ellis",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1740481200000)/"
+    }
+  },
+  {
+    "ListingId": 5165727821,
+    "Title": "Family Oasis in Zone",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739229773397)/",
+    "EndDate": "/Date(1744690369243)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521436)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762228.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740181500000)/",
+        "End": "/Date(1740183300000)/"
+      },
+      {
+        "Start": "/Date(1740186000000)/",
+        "End": "/Date(1740187800000)/"
+      },
+      {
+        "Start": "/Date(1740270600000)/",
+        "End": "/Date(1740272400000)/"
+      },
+      {
+        "Start": "/Date(1740272400000)/",
+        "End": "/Date(1740274200000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4973785,
+      "Longitude": 172.5853892,
+      "Northing": 5183866,
+      "Easting": 1566480,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 6 Mar, 10:00 am",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762247.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762250.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762253.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762256.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762237.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762262.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762269.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762274.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762281.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762260.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762285.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762233.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762290.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762294.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2186762298.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187008217.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187008221.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187008225.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5165727821",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 8287504,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "1 Staines Street",
+    "District": "Christchurch City",
+    "AgencyReference": "HSS3894",
+    "Area": 130,
+    "LandArea": 811,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 710000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15914,
+      "Name": "Harcourts Gold Spitfire Square, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-6629222",
+      "Website": "http://www.homes4sale.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8287504-1.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "Christchurch",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8287504-office_branding-1.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8287504-1.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jing Jin",
+          "MobilePhoneNumber": "(021) 2178463",
+          "OfficePhoneNumber": "(03) 6629811",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7888781v1.jpg",
+          "UrlSlug": "Jing-Jin",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Mark Wang",
+          "MobilePhoneNumber": "(021) 1685386",
+          "OfficePhoneNumber": "(03) 9282569",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile2985671v1.jpg",
+          "UrlSlug": "Mark-Wang",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741208400000)/"
+    }
+  },
+  {
+    "ListingId": 4980310132,
+    "Title": "Call Me To View",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1729551826383)/",
+    "EndDate": "/Date(1743716266383)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521440)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110768.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4845422,
+      "Longitude": 172.5914001,
+      "Northing": 5185294,
+      "Easting": 1566959,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $519,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110762.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110766.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110770.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110772.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110774.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110783.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110792.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110804.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110810.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110814.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162110816.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/4980310132",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2003191,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "2/62 Highsted Road",
+    "District": "Christchurch City",
+    "AgencyReference": "BD23696",
+    "Area": 90,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "Unit",
+    "RateableValue": 495000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4760,
+      "Name": "Vision Real Estate Ltd, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3594370",
+      "Website": "http://www.harcourtsvision.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2003191-4.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2003191-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Aaron Johnstone",
+          "MobilePhoneNumber": "(027) 2223444",
+          "OfficePhoneNumber": "(03) 3594370",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5482704v1.jpg",
+          "UrlSlug": "Aaron-Johnstone",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1743716266383)/"
+    }
+  },
+  {
+    "ListingId": 5141534763,
+    "Title": "Updated, Upgraded & Unmissable!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737939820290)/",
+    "EndDate": "/Date(1743978940290)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521442)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171660.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4802615,
+      "Longitude": 172.5880627,
+      "Northing": 5185768,
+      "Easting": 1566686,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 20 Feb, 11:00 am",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171662.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171669.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171671.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171675.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171677.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171680.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171682.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171683.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171691.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171696.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171699.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171700.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171703.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171708.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171713.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171715.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171718.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171719.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171722.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171724.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171725.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171727.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171729.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171732.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171734.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171738.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171740.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171745.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171753.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171756.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171758.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171761.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171762.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171763.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171767.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171770.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171771.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171775.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171777.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171779.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171784.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171800.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171802.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171805.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183171808.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5141534763",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3554713,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "88 Cotswold Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "SM3392",
+    "Area": 100,
+    "LandArea": 658,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 640000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6140,
+      "Name": "Grenadier Real Estate Ltd Ferrymead, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3847950",
+      "Website": "http://www.ferrymead.harcourts.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3554713-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3554713-office_branding-4.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Shaun Davey",
+          "MobilePhoneNumber": "(027) 9538860",
+          "OfficePhoneNumber": "(03) 3847950",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6877491v2.jpg",
+          "UrlSlug": "Shaun-Davey",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Callum Brownlee",
+          "MobilePhoneNumber": "(027) 5264585",
+          "OfficePhoneNumber": "(03) 3847950",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5788963v3.jpg",
+          "UrlSlug": "Callum-Brownlee",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1740002400000)/"
+    }
+  },
+  {
+    "ListingId": 5135233337,
+    "Title": "GET YOUR OFFER IN before it's too late!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737598073260)/",
+    "EndDate": "/Date(1744584873363)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521445)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321182.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740263400000)/",
+        "End": "/Date(1740265200000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4857157,
+      "Longitude": 172.5984702,
+      "Northing": 5185167,
+      "Easting": 1567531,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $649,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321189.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321172.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321194.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321079.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321069.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321091.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321096.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321058.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321060.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321063.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321100.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321105.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321112.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321119.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321124.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321129.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321133.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321138.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321152.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321147.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321160.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183162236.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182321164.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182545539.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182545536.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5135233337",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3751330,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "482 Greers Road",
+    "District": "Christchurch City",
+    "AgencyReference": "MCN37687",
+    "LandArea": 450,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6511,
+      "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3430219",
+      "Website": "http://www.rwmetro.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Rebecca Toone",
+          "MobilePhoneNumber": "(027) 3553304",
+          "OfficePhoneNumber": "(03) 3430219",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3184112v2.jpg",
+          "UrlSlug": "Rebecca-Toone-2",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744584873363)/"
+    }
+  },
+  {
+    "ListingId": 5168811322,
+    "Title": "Solid and Dependable!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739400822157)/",
+    "EndDate": "/Date(1744581167450)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521447)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187264987.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739919600000)/",
+        "End": "/Date(1739922300000)/"
+      },
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740181500000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267900000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4803167,
+      "Longitude": 172.5895082,
+      "Northing": 5185763,
+      "Easting": 1566803,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 6 Mar, 10:00 am",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187264990.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187264997.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265009.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265014.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265017.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265023.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265029.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265033.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265037.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265040.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265041.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265043.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265044.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265045.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265047.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265049.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265051.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265057.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265058.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265059.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265060.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265073.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187265075.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5168811322",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3521747,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "293 Sawyers Arms Road",
+    "District": "Christchurch City",
+    "AgencyReference": "PI87733",
+    "Area": 110,
+    "LandArea": 612,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 660000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6048,
+      "Name": "Gold Real Estate Group Papanui, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3526166",
+      "Website": "http://www.homes4sale.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3521747-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3521747-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3521747-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Debbie Soper",
+          "MobilePhoneNumber": "(027) 4328279",
+          "OfficePhoneNumber": "(03) 3526166",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1071423v3.jpg",
+          "UrlSlug": "Debbie-Soper",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741208400000)/"
+    }
+  },
+  {
+    "ListingId": 4686160615,
+    "Title": "Brand New Burnside High Zone Beauty!",
+    "Category": "0350-7279-7281-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1714423288477)/",
+    "EndDate": "/Date(1747013514100)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521449)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/New-townhouse-terraced",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206798.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740186000000)/",
+        "End": "/Date(1740187800000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4931115,
+      "Longitude": 172.5823023,
+      "Northing": 5184339,
+      "Easting": 1566228,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $599,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206801.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206802.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206803.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206809.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206810.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206811.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206813.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206816.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206822.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206826.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206832.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206834.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206835.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206839.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206844.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188206846.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/new-townhouse-terraced/canterbury/christchurch-city/bishopdale/listing/4686160615",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 8900883,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "61 Farrington Avenue",
+    "District": "Christchurch City",
+    "LandArea": 87,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 open spaces",
+    "PropertyType": "Townhouse",
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 16854,
+      "Name": "First National Real Estate Tao, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-2222918",
+      "Website": "https://firstnationaltao.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8900883-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8900883-office_branding-2.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8900883-3.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Grace Luo",
+          "MobilePhoneNumber": "(021) 08935311",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8067216v7.jpg",
+          "UrlSlug": "Grace-Luo",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1747013514100)/"
+    }
+  },
+  {
+    "ListingId": 5167370429,
+    "Title": "Window of Opportunity - Tenure Speaks Volume!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739325110373)/",
+    "EndDate": "/Date(1744707085783)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521451)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067930.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739919600000)/",
+        "End": "/Date(1739923200000)/"
+      },
+      {
+        "Start": "/Date(1739930400000)/",
+        "End": "/Date(1739933100000)/"
+      },
+      {
+        "Start": "/Date(1740009600000)/",
+        "End": "/Date(1740013200000)/"
+      },
+      {
+        "Start": "/Date(1740024000000)/",
+        "End": "/Date(1740026700000)/"
+      },
+      {
+        "Start": "/Date(1740182400000)/",
+        "End": "/Date(1740185100000)/"
+      },
+      {
+        "Start": "/Date(1740268800000)/",
+        "End": "/Date(1740271500000)/"
+      },
+      {
+        "Start": "/Date(1740535200000)/",
+        "End": "/Date(1740537900000)/"
+      },
+      {
+        "Start": "/Date(1740628800000)/",
+        "End": "/Date(1740631500000)/"
+      },
+      {
+        "Start": "/Date(1740787200000)/",
+        "End": "/Date(1740789900000)/"
+      },
+      {
+        "Start": "/Date(1740873600000)/",
+        "End": "/Date(1740876300000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4892856,
+      "Longitude": 172.5886417,
+      "Northing": 5184766,
+      "Easting": 1566738,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 5 Mar, 10:00 am",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067935.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067939.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067942.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067946.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067947.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067950.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067954.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067959.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067961.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067965.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067968.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067973.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067975.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067977.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187067980.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5167370429",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3556044,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "130 Farrington Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "IM26932",
+    "LandArea": 673,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces",
+    "PropertyType": "House",
+    "RateableValue": 680000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6151,
+      "Name": "Harcourts Ilam 2, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3513002",
+      "Website": "http://www.holmwood.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556044-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3556044-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Nikila Creagh",
+          "MobilePhoneNumber": "(027) 5175645",
+          "OfficePhoneNumber": "(03) 3513002",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/981733.jpg",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741122000000)/"
+    }
+  },
+  {
+    "ListingId": 5167238448,
+    "Title": "Chedworth Cracker!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739318672343)/",
+    "EndDate": "/Date(1744669917567)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521454)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041052.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739935800000)/",
+        "End": "/Date(1739937600000)/"
+      },
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740180600000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4836769,
+      "Longitude": 172.5853255,
+      "Northing": 5185388,
+      "Easting": 1566467,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 6 Mar, 11:00 am",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041056.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041058.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041060.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041061.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041065.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041067.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041068.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041071.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041073.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041078.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041083.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041087.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041090.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041096.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041100.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041101.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187041104.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5167238448",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3516376,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "26 Chedworth Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "CR54252",
+    "LandArea": 637,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces, 3 open spaces",
+    "PropertyType": "House",
+    "RateableValue": 600000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6081,
+      "Name": "Grenadier Real Estate Ltd City, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3796596",
+      "Website": "http://www.grenadier.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3516376-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3516376-office_branding-3.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3516376-2.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Tyrone O'Halloran",
+          "MobilePhoneNumber": "(027) 4844755",
+          "OfficePhoneNumber": "(03) 3796596",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6847489v2.jpg",
+          "UrlSlug": "Tyrone-OHalloran",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Andrew Steel",
+          "MobilePhoneNumber": "(027) 4328115",
+          "OfficePhoneNumber": "(03) 3796596",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6871096v2.jpg",
+          "UrlSlug": "Andrew-Steel",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 4,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost71421",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1741212000000)/"
+    }
+  },
+  {
+    "ListingId": 5141597086,
+    "Title": "Owners have purchased - Must Be Sold!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737943419467)/",
+    "EndDate": "/Date(1744597799603)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521458)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183187950.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740182400000)/",
+        "End": "/Date(1740184200000)/"
+      },
+      {
+        "Start": "/Date(1740268800000)/",
+        "End": "/Date(1740270600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4866571,
+      "Longitude": 172.5889629,
+      "Northing": 5185058,
+      "Easting": 1566763,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 19 Feb, 10:00 am",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183187963.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183187974.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183187986.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183187994.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188005.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188015.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188028.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188036.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188044.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188057.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188063.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188068.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188079.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188089.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188098.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188104.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188113.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188121.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188126.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183188133.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5141597086",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3556036,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "21A Highsted Road",
+    "District": "Christchurch City",
+    "AgencyReference": "FE22338",
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 garage spaces, 3 open spaces",
+    "PropertyType": "House",
+    "RateableValue": 700000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6149,
+      "Name": "Holmwood Real Estate Ltd Fendalton, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3556116",
+      "Website": "http://www.holmwood.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556036-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3556036-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jack Marshall",
+          "MobilePhoneNumber": "(027) 6720070",
+          "OfficePhoneNumber": "(03) 3556116",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile422887v2.jpg",
+          "UrlSlug": "jack-marshall",
+          "MembershipType": 0
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Steven Marshall",
+          "MobilePhoneNumber": "(027) 4330401",
+          "OfficePhoneNumber": "(03) 3556116",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6210121v2.jpg",
+          "UrlSlug": "Steven-MarshallAREINZ",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 5,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost14",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1739912400000)/"
+    }
+  },
+  {
+    "ListingId": 5141408689,
+    "Title": "Bainton St Beauty!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737932541643)/",
+    "EndDate": "/Date(1744058122653)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521462)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140884.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4878055,
+      "Longitude": 172.5912763,
+      "Northing": 5184932,
+      "Easting": 1566950,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Auction on 19 Feb, 10:00 am",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140890.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140893.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140899.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140903.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140907.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140910.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140913.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140917.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140919.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140921.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140924.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140931.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140934.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140936.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140938.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5141408689",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 3556036,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "48 Bainton Street",
+    "District": "Christchurch City",
+    "AgencyReference": "FE22345",
+    "LandArea": 485,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces, 1 open spaces",
+    "PropertyType": "House",
+    "RateableValue": 700000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6149,
+      "Name": "Holmwood Real Estate Ltd Fendalton, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3556116",
+      "Website": "http://www.holmwood.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556036-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3556036-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jack Marshall",
+          "MobilePhoneNumber": "(027) 6720070",
+          "OfficePhoneNumber": "(03) 3556116",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile422887v2.jpg",
+          "UrlSlug": "jack-marshall",
+          "MembershipType": 0
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Steven Marshall",
+          "MobilePhoneNumber": "(027) 4330401",
+          "OfficePhoneNumber": "(03) 3556116",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile6210121v2.jpg",
+          "UrlSlug": "Steven-MarshallAREINZ",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "SF1PL3Boost14",
+    "PropertySaleInformation": {
+      "PropertySaleType": 3,
+      "PropertyDateOfSale": "/Date(1739912400000)/"
+    }
+  },
+  {
+    "ListingId": 5134917344,
+    "Title": "Charming Home With Burnside Zoning",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737581974323)/",
+    "EndDate": "/Date(1744685869843)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521465)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241104.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1739938500000)/",
+        "End": "/Date(1739940300000)/"
+      },
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740180600000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740267000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4939687,
+      "Longitude": 172.5905378,
+      "Northing": 5184247,
+      "Easting": 1566894,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Price by negotiation",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241106.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241108.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241110.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241113.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241114.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241115.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241117.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241118.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241120.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241121.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241123.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241125.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241126.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241129.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241130.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241132.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2182241133.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5134917344",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 6438279,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "359 Greers Road",
+    "District": "Christchurch City",
+    "AgencyReference": "PPN35265",
+    "Area": 140,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Double Car Garage",
+    "PropertyType": "House",
+    "RateableValue": 650000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 12298,
+      "Name": "Ray White Papanui - Winston Residential Limited Licensed, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-352 0567",
+      "Website": "http://www.rwpapanui.com",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/6438279-2.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffe512",
+        "TextColor": "#818062",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/6438279-office_branding-2.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Rob East",
+          "MobilePhoneNumber": "(027) 7803336",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1504184v3.jpg",
+          "UrlSlug": "Rob-East",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "SF1PL3Boost14",
+    "PropertySaleInformation": {
+      "PropertySaleType": 5,
+      "PropertyDateOfSale": "/Date(1744685869843)/"
+    }
+  },
+  {
+    "ListingId": 4564080867,
+    "Title": "Burnsie High Schoolzone Contact for Viewing",
+    "Category": "0350-7279-7281-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1707868892753)/",
+    "EndDate": "/Date(1746952313593)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739870521467)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/New-townhouse-terraced",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746644.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4931115,
+      "Longitude": 172.5823023,
+      "Northing": 5184339,
+      "Easting": 1566228,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $599,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183599175.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183599176.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746649.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746651.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746652.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746653.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746654.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746655.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746656.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746658.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746659.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746660.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746662.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746663.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746664.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2187746665.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150446146.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2108746459.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2108746457.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2081303468.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2081303462.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2081303461.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2081303456.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/new-townhouse-terraced/canterbury/christchurch-city/bishopdale/listing/4564080867",
+    "MemberId": 8069062,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "61 Farrington Avenue",
+    "District": "Christchurch City",
+    "AgencyReference": "RX3840294",
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "Open Spaces: 1",
+    "PropertyType": "Townhouse",
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15545,
+      "Name": "Tao Holdings Ltd",
+      "PhoneNumber": "+64-3-4213883",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8069062-5.jpg",
+      "Branding": {
+        "BackgroundColor": "#0d0d42",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8069062-office_branding-5.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8069062-5.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jason Yoo",
+          "OfficePhoneNumber": "(021) 730607",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/991829.jpg",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "Lounges": 1,
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1746952313593)/"
+    }
+  },
+  {
+    "ListingId": 5159650072,
+    "Title": "Affordable & Spacious - Your Ideal Bishopdale Home",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738900461740)/",
+    "EndDate": "/Date(1744676606567)/",
+    "ListingLength": null,
+    "HasGallery": true,
+    "AsAt": "/Date(1739870521469)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780408.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740175200000)/",
+        "End": "/Date(1740178800000)/"
+      },
+      {
+        "Start": "/Date(1740178800000)/",
+        "End": "/Date(1740182400000)/"
+      },
+      {
+        "Start": "/Date(1740182400000)/",
+        "End": "/Date(1740189600000)/"
+      },
+      {
+        "Start": "/Date(1740261600000)/",
+        "End": "/Date(1740265200000)/"
+      },
+      {
+        "Start": "/Date(1740265200000)/",
+        "End": "/Date(1740268800000)/"
+      },
+      {
+        "Start": "/Date(1740268800000)/",
+        "End": "/Date(1740276000000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4900208,
+      "Longitude": 172.5942475,
+      "Northing": 5184687,
+      "Easting": 1567192,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Deadline sale by 26 Feb",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780422.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780448.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780460.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780468.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780478.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780487.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780493.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780499.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780503.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780508.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780516.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2185780521.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/5159650072",
+    "MemberId": 3556044,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "414A Greers Road",
+    "District": "Christchurch City",
+    "AgencyReference": "IM26929",
+    "Area": 120,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 garage spaces",
+    "PropertyType": "Townhouse",
+    "RateableValue": 590000,
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 6151,
+      "Name": "Harcourts Ilam 2, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-3513002",
+      "Website": "http://www.holmwood.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3556044-3.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3556044-office_branding-3.jpg"
+      },
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Lucy Zhou",
+          "MobilePhoneNumber": "(021) 2269888",
+          "OfficePhoneNumber": "(03) 3513002",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1848926v3.jpg",
+          "UrlSlug": "Lucy-Zhou",
+          "MembershipType": 0
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PropertySaleInformation": {
+      "PropertySaleType": 7,
+      "PropertyDateOfSale": "/Date(1740481200000)/"
+    }
+  },
+  {
+    "ListingId": 4523712667,
+    "Title": "Build Your Dream Home in Burnside High Zone!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1705616159640)/",
+    "EndDate": "/Date(1747020868937)/",
+    "ListingLength": null,
+    "HasGallery": true,
+    "AsAt": "/Date(1739870521471)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2152214936.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2507,
+    "Suburb": "Bishopdale",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4918108,
+      "Longitude": 172.5767571,
+      "Northing": 5184481,
+      "Easting": 1565779,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $580,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2152214937.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2152214938.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014466.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014469.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014473.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014475.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014477.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014482.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014484.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014487.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014490.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014495.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014497.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014501.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2094014505.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/bishopdale/listing/4523712667",
+    "MemberId": 8287504,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "29A Twyford Street",
+    "District": "Christchurch City",
+    "AgencyReference": "HSS2869",
+    "LandArea": 564,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Papanui",
+      "Burnside",
+      "Harewood",
+      "Bishopdale",
+      "Northcote",
+      "Russley",
+      "Casebrook"
+    ],
+    "AdjacentSuburbIds": [
+      2557,
+      2505,
+      2506,
+      2507,
+      3371,
+      2501,
+      2508
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 15914,
+      "Name": "Harcourts Gold Spitfire Square, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-3-6629222",
+      "Website": "http://www.homes4sale.co.nz",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8287504-1.jpg",
+      "Branding": {
+        "BackgroundColor": "#002049",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#002049",
+        "OfficeLocation": "Christchurch",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8287504-office_branding-1.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8287504-1.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jing Jin",
+          "MobilePhoneNumber": "(021) 2178463",
+          "OfficePhoneNumber": "(03) 6629811",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7888781v1.jpg",
+          "UrlSlug": "Jing-Jin",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Mark Wang",
+          "MobilePhoneNumber": "(021) 1685386",
+          "OfficePhoneNumber": "(03) 9282569",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/956498.jpg",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1747020868937)/"
+    }
+  }
+]

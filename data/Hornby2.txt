@@ -1,0 +1,1979 @@
+[
+    {
+        "ListingId": 5142037453,
+        "Title": "Brand New Kiwi Built - Modern & Budget Friendly",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1729763400000)/",
+        "EndDate": "/Date(1742803620000)/",
+        "ListingLength": null,
+        "IsFeatured": true,
+        "HasGallery": true,
+        "IsBold": true,
+        "IsHighlighted": true,
+        "AsAt": "/Date(1739875067948)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183273064.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.547816,
+            "Longitude": 172.5289672,
+            "Northing": 5178240,
+            "Easting": 1561950,
+            "Accuracy": 3
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773719.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162713950.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773698.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773700.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773718.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183273066.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162771718.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773694.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183273063.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773720.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773705.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773697.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162773701.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2163484924.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2163735098.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162771701.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/hornby/listing/5142037453",
+        "MemberId": 9083338,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "37 Amyes Road",
+        "District": "Christchurch City",
+        "Amenities": "Located just 3 minutes from Hornby Hub Shopping Mall, Dress Mart and major transport links ",
+        "Area": 110,
+        "LandArea": 147,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "BestContactTime": "Any time",
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "Townhouse",
+        "RateableValue": 645000,
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": null,
+        "TotalParking": 3,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1742803620000)/"
+        }
+    },
+    {
+        "ListingId": 5177489992,
+        "Title": "\"Charming Standalone Townhouse\"",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1739851032900)/",
+        "EndDate": "/Date(1744689548513)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875067949)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2188698246.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5461283,
+            "Longitude": 172.531349,
+            "Northing": 5178429,
+            "Easting": 1562141,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/hornby/listing/5177489992",
+        "MemberId": 2566119,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "2/49 Brynley Street",
+        "District": "Christchurch City",
+        "AgencyReference": "LIC30892",
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "RateableValue": 510000,
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 4286,
+            "Name": "Ray White Selwyn (Town and Lifestyle Real Estate Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3479988",
+            "Website": "http://www.raywhite.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2566119-8.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2566119-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Paul Dodds",
+                    "MobilePhoneNumber": "(021) 2105559",
+                    "OfficePhoneNumber": "(03) 7777160",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8002794v1.jpg",
+                    "UrlSlug": "Paul-Dodds",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Rowan Shepherd",
+                    "MobilePhoneNumber": "(027) 3031565",
+                    "OfficePhoneNumber": "(03) 3257299",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8113646v3.jpg",
+                    "UrlSlug": "Rowan-Shepherd",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744689548513)/"
+        }
+    },
+    {
+        "ListingId": 5141546485,
+        "Title": "Don't Delay - Make It Yours Today!!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737940527573)/",
+        "EndDate": "/Date(1744235936067)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875067953)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175097.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5453812,
+            "Longitude": 172.5356346,
+            "Northing": 5178514,
+            "Easting": 1562487,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175104.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175111.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175117.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175120.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175124.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175128.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175134.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175137.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175142.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175144.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175146.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175151.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175153.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175154.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175155.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175158.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183175159.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/hornby/listing/5141546485",
+        "MemberId": 2566119,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "1E Bahama Place",
+        "District": "Christchurch City",
+        "AgencyReference": "LIC30872",
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 garage spaces",
+        "PropertyType": "House",
+        "RateableValue": 520000,
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 4286,
+            "Name": "Ray White Selwyn (Town and Lifestyle Real Estate Ltd), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3479988",
+            "Website": "http://www.raywhite.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2566119-8.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2566119-office_branding-2.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Rowan Shepherd",
+                    "MobilePhoneNumber": "(027) 3031565",
+                    "OfficePhoneNumber": "(03) 3257299",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8113646v3.jpg",
+                    "UrlSlug": "Rowan-Shepherd",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Paul Dodds",
+                    "MobilePhoneNumber": "(021) 2105559",
+                    "OfficePhoneNumber": "(03) 7777160",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8002794v1.jpg",
+                    "UrlSlug": "Paul-Dodds",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1744235936067)/"
+        }
+    },
+    {
+        "ListingId": 5134835593,
+        "Title": "Packed with Potential!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737576542727)/",
+        "EndDate": "/Date(1743462882133)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068035)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222183.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5458573,
+            "Longitude": 172.5136686,
+            "Northing": 5178451,
+            "Easting": 1560713,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Enquiries over $609,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222185.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222186.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222188.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222190.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222193.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222196.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222197.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222200.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222202.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222204.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222205.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222209.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222211.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222212.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222216.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222217.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222220.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222222.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222225.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222226.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222230.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222234.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2182222237.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/hornby/listing/5134835593",
+        "MemberId": 8080605,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "62 Denise Crescent",
+        "District": "Christchurch City",
+        "AgencyReference": "10185",
+        "Area": 100,
+        "LandArea": 582,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "BestContactTime": "Business hours",
+        "ListingGroup": "PROPERTY",
+        "Parking": "2 Garage Spaces",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 15563,
+            "Name": "Arizto Ltd, (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-800-540550",
+            "Website": "http://www.arizto.co.nz",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8080605-1.jpg",
+            "Branding": {
+                "BackgroundColor": "#0f5a5f",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#0f5a5f",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/8080605-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/8080605-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Anna James",
+                    "MobilePhoneNumber": "(027) 2222742",
+                    "OfficePhoneNumber": "(027) 2222742",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile5834360v3.jpg",
+                    "UrlSlug": "Anna-James",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 2,
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1743462882133)/"
+        }
+    },
+    {
+        "ListingId": 5131799962,
+        "Title": "Make Your City Dream a Reality",
+        "Category": "0350-7279-7282-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737412225423)/",
+        "EndDate": "/Date(1744669825423)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068038)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181755639.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Asking price $810,900",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181755636.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930371.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2162802330.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2112514302.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926345.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930243.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926265.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181755637.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2156798972.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2181755632.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/hornby/listing/5131799962",
+        "MemberId": 4855941,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " Hornby",
+        "District": "Christchurch City",
+        "AgencyReference": "Lot28TWT",
+        "Area": 160,
+        "LandArea": 361,
+        "Bathrooms": 2,
+        "Bedrooms": 4,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8379,
+            "Name": "Signature Homes Canterbury",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4855941-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#00ab4d",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#00ab4d",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4855941-office_branding-1.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Liezel Sevalle",
+                    "MobilePhoneNumber": "(027) 5290669",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744669825423)/"
+        }
+    },
+    {
+        "ListingId": 5131716235,
+        "Title": "LIVE IN CHCH CITY - 3 BEDROOMS FOR ONLY $725,000!",
+        "Category": "0350-7279-7282-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1737406936787)/",
+        "EndDate": "/Date(1744664536787)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068041)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181731276.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5464378,
+            "Longitude": 172.5204465,
+            "Northing": 5178390,
+            "Easting": 1561261,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $725,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2183596313.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153513015.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2154176508.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2154193550.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2154176790.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2154176595.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2154176411.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2154176551.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2152791658.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2132548696.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2068413198.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2068413233.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/hornby/listing/5131716235",
+        "MemberId": 2788757,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " Lot 7, Te Whata Tuatoru",
+        "District": "Christchurch City",
+        "Area": 146,
+        "LandArea": 300,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 11344,
+            "Name": "Today Homes Ltd",
+            "PhoneNumber": "+64-3-3416460",
+            "Website": "http://www.todayhomes.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2788757-2.jpg",
+            "Branding": {
+                "BackgroundColor": "",
+                "TextColor": "",
+                "StrokeColor": "",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2788757-office_branding-2.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2788757-2.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Today Homes Limited",
+                    "OfficePhoneNumber": "(03) 3416460",
+                    "MembershipType": 0
+                },
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Today Homes Limited",
+                    "OfficePhoneNumber": "(03) 3416460",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "TotalParking": 2,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1744664536787)/"
+        }
+    },
+    {
+        "ListingId": 5123937400,
+        "Title": "Under offer!",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1736992210113)/",
+        "EndDate": "/Date(1741830610113)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068044)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2180333684.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5492152,
+            "Longitude": 172.5346347,
+            "Northing": 5178088,
+            "Easting": 1562408,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180333678.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180333681.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180333686.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180333688.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180333680.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335896.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335902.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335900.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180335905.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180337729.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2180353698.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/hornby/listing/5123937400",
+        "MemberId": 7029557,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "101 Brynley Street",
+        "District": "Christchurch City",
+        "Amenities": "All within walking distance: \n- Shopping Centre's\n- Preschools / Schools\n- Harvard Park Wigram",
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "BestContactTime": "Any time",
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "RateableValue": 530000,
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": null,
+        "TotalParking": 2,
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1741830610113)/"
+        }
+    },
+    {
+        "ListingId": 5110693911,
+        "Title": "Lot 16, Te Whata Tuatoru, Hornby",
+        "Category": "0350-5748-3400-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1736307530807)/",
+        "EndDate": "/Date(1741145930807)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068045)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625309.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5472198,
+            "Longitude": 172.5210205,
+            "Northing": 5178303,
+            "Easting": 1561307,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $365,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625310.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625311.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625314.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625317.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625318.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625322.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2178625327.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sections-for-sale/canterbury/christchurch-city/hornby/listing/5110693911",
+        "MemberId": 7936964,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "56 Shands Road",
+        "District": "Christchurch City",
+        "LandArea": 327,
+        "BestContactTime": "Any time",
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "Section",
+        "PropertyId": "IZN334",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": null,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1741145930807)/"
+        }
+    },
+    {
+        "ListingId": 5079936260,
+        "Title": "Affordable Elegance, City Reach",
+        "Category": "0350-7279-7282-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1734641050213)/",
+        "EndDate": "/Date(1741898650213)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068045)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2175433951.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Asking price $734,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930259.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926345.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926506.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930371.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2156798972.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175433947.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2175433949.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/hornby/listing/5079936260",
+        "MemberId": 4855941,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " Hornby",
+        "District": "Christchurch City",
+        "AgencyReference": "Lot38TWT",
+        "Area": 124,
+        "LandArea": 356,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "PropertyId": "IZE914",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8379,
+            "Name": "Signature Homes Canterbury",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4855941-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#00ab4d",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#00ab4d",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4855941-office_branding-1.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Liezel Sevalle",
+                    "MobilePhoneNumber": "(027) 5290669",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "TotalParking": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1741898650213)/"
+        }
+    },
+    {
+        "ListingId": 5033137631,
+        "Title": "Discover Hornby Living",
+        "Category": "0350-7279-7282-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1732225720747)/",
+        "EndDate": "/Date(1746394932243)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068048)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2169225056.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Asking price $679,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2169225059.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930371.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926345.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930243.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926506.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2156798972.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2169175004.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2169175005.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/hornby/listing/5033137631",
+        "MemberId": 4855941,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " Hornby",
+        "District": "Christchurch City",
+        "AgencyReference": "Lot26TTW ",
+        "Area": 105,
+        "LandArea": 301,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8379,
+            "Name": "Signature Homes Canterbury",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4855941-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#00ab4d",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#00ab4d",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4855941-office_branding-1.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Liezel Sevalle",
+                    "MobilePhoneNumber": "(027) 5290669",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1746394932243)/"
+        }
+    },
+    {
+        "ListingId": 5033083280,
+        "Title": "Your Dream Home, Within Reach",
+        "Category": "0350-7279-7282-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1732223446443)/",
+        "EndDate": "/Date(1746394912740)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068051)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2169167437.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Asking price $706,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930371.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926345.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2112514302.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2112532119.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2156798972.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2169167415.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2169167413.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/hornby/listing/5033083280",
+        "MemberId": 4855941,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " Hornby",
+        "District": "Christchurch City",
+        "AgencyReference": "Lot14TTW ",
+        "Area": 121,
+        "LandArea": 330,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "PropertyId": "IYH016",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8379,
+            "Name": "Signature Homes Canterbury",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4855941-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#00ab4d",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#00ab4d",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4855941-office_branding-1.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Liezel Sevalle",
+                    "MobilePhoneNumber": "(027) 5290669",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1746394912740)/"
+        }
+    },
+    {
+        "ListingId": 5007867770,
+        "Title": "Downsizers delight in Hornby!",
+        "Category": "0350-7279-7282-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1730952359607)/",
+        "EndDate": "/Date(1745351611877)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068054)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2165774013.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Asking price $678,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165774012.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930371.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926345.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930243.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926265.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2130156839.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165774007.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165774011.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/hornby/listing/5007867770",
+        "MemberId": 4855941,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " Hornby",
+        "District": "Christchurch City",
+        "AgencyReference": "27HFan",
+        "Area": 111,
+        "LandArea": 300,
+        "Bathrooms": 1,
+        "Bedrooms": 2,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8379,
+            "Name": "Signature Homes Canterbury",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4855941-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#00ab4d",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#00ab4d",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4855941-office_branding-1.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Debbie Ryan",
+                    "MobilePhoneNumber": "(027) 2409798",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1745351611877)/"
+        }
+    },
+    {
+        "ListingId": 4943502190,
+        "Title": "Modern Living, Timeless Value",
+        "Category": "0350-7279-7282-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1727665063830)/",
+        "EndDate": "/Date(1740948205180)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068057)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2156630125.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Asking price $669,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930371.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111930243.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926345.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2112532119.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2111926265.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2156798972.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2156630123.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2156630121.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/hornby/listing/4943502190",
+        "MemberId": 4855941,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "District": "Christchurch City",
+        "Amenities": "Matatiki Hornby Centre, Hornby Hub Mall, Dressmart + More!",
+        "Area": 111,
+        "LandArea": 307,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "Single Garage + Driveway parking",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8379,
+            "Name": "Signature Homes Canterbury",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4855941-2.jpg",
+            "Branding": {
+                "BackgroundColor": "#00ab4d",
+                "TextColor": "#ffffff",
+                "StrokeColor": "#00ab4d",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4855941-office_branding-1.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Liezel Sevalle",
+                    "MobilePhoneNumber": "(027) 5290669",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "TotalParking": 1,
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1740948205180)/"
+        }
+    },
+    {
+        "ListingId": 4921497969,
+        "Title": "Modern Townhouse Development - Coming Soon!",
+        "Category": "0350-7279-7281-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1726536746613)/",
+        "EndDate": "/Date(1746482053920)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068060)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/New-townhouse-terraced",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545218.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5506851,
+            "Longitude": 172.5350303,
+            "Northing": 5177925,
+            "Easting": 1562441,
+            "Accuracy": 1
+        },
+        "PriceDisplay": "Asking price $665,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545222.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545210.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545208.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545205.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545212.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545206.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545216.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545217.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545204.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2165545223.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153519258.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153519261.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153519265.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153519269.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153519272.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153519275.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2153519279.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2155782718.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/new-townhouse-terraced/canterbury/christchurch-city/hornby/listing/4921497969",
+        "MemberId": 3751330,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": "Unit 4/100B Brynley Street",
+        "District": "Christchurch City",
+        "AgencyReference": "MCN37453",
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "1 garage spaces",
+        "PropertyType": "Townhouse",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 6511,
+            "Name": "Ray White Metro - Metro Team Ltd Licensed (REAA 2008), (Licensed: REAA 2008)",
+            "PhoneNumber": "+64-3-3430219",
+            "Website": "http://www.rwmetro.co.nz/",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/3751330-7.jpg",
+            "Branding": {
+                "BackgroundColor": "#ffe512",
+                "TextColor": "#818062",
+                "StrokeColor": "#ffffff",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/3751330-office_branding-3.jpg"
+            },
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "David Rankin",
+                    "MobilePhoneNumber": "(027) 2017060",
+                    "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile3786067v4.jpg",
+                    "UrlSlug": "David-Rankin",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true,
+            "IsLicensedPropertyAgency": true
+        },
+        "TotalParking": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1746482053920)/"
+        }
+    },
+    {
+        "ListingId": 5135205654,
+        "Title": "Only 4 sites remain at Te Whata Tuatoru, Hornby!",
+        "Category": "0350-5748-3400-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1722908100000)/",
+        "EndDate": "/Date(1742434981000)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068061)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2135489159.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.5476868,
+            "Longitude": 172.5200995,
+            "Northing": 5178251,
+            "Easting": 1561233,
+            "Accuracy": 3
+        },
+        "PriceDisplay": "Enquiries over $349,000",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2135488906.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2135488984.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2135489036.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2135489157.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/2138352250.jpg"
+        ],
+        "HasEmbeddedVideo": true,
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sections-for-sale/canterbury/christchurch-city/hornby/listing/5135205654",
+        "MemberId": 8700817,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "Address": " Seymour Street",
+        "District": "Christchurch City",
+        "Amenities": "Schools, retail shops, parks, transport, easy access to SH1, sport and recreation facilities.",
+        "LandArea": 300,
+        "BestContactTime": "Any time",
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "Section",
+        "ViewingInstructions": "email: dene.maddren@ngaitahu.iwi.nz",
+        "PropertyId": "IUB385",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": null,
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1742434981000)/"
+        }
+    },
+    {
+        "ListingId": 4000772349,
+        "Title": "New Keith Hay Transportable Home For Your Section",
+        "Category": "0350-7279-7283-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1676514829910)/",
+        "EndDate": "/Date(1745539512753)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068062)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/New-house",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1923646260.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Enquiries over $407,560",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1923646527.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/new-house/canterbury/christchurch-city/hornby/listing/4000772349",
+        "MemberId": 4702382,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "District": "Christchurch City",
+        "AgencyReference": "53944",
+        "Area": 120,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8067,
+            "Name": "Keith Hay Group",
+            "PhoneNumber": "+64-9-6210070",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-3.jpg",
+            "Branding": {
+                "BackgroundColor": "",
+                "TextColor": "#000000",
+                "StrokeColor": "",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4702382-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Glen Ellis",
+                    "MobilePhoneNumber": "(027) 4735223",
+                    "OfficePhoneNumber": "(03) 3499102",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1745539512753)/"
+        }
+    },
+    {
+        "ListingId": 4000702809,
+        "Title": "New Keith Hay Transportable Home For Your Section",
+        "Category": "0350-7279-7283-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1676511986227)/",
+        "EndDate": "/Date(1745539502940)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068065)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/New-house",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1923617424.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Asking price $329,360",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1923617774.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/new-house/canterbury/christchurch-city/hornby/listing/4000702809",
+        "MemberId": 4702382,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "District": "Christchurch City",
+        "AgencyReference": "53942",
+        "Area": 100,
+        "Bathrooms": 1,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8067,
+            "Name": "Keith Hay Group",
+            "PhoneNumber": "+64-9-6210070",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-3.jpg",
+            "Branding": {
+                "BackgroundColor": "",
+                "TextColor": "#000000",
+                "StrokeColor": "",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4702382-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Glen Ellis",
+                    "MobilePhoneNumber": "(027) 4735523",
+                    "OfficePhoneNumber": "(03) 3499102",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 1,
+            "PropertyDateOfSale": "/Date(1745539502940)/"
+        }
+    },
+    {
+        "ListingId": 3999133808,
+        "Title": "New Keith Hay Transportable Home For Your Section",
+        "Category": "0350-7279-7283-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1676433586373)/",
+        "EndDate": "/Date(1745539492967)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068068)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/New-house",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1923107592.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Enquiries over $368,230",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1923107442.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/new-house/canterbury/christchurch-city/hornby/listing/3999133808",
+        "MemberId": 4702382,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "District": "Christchurch City",
+        "AgencyReference": "53938",
+        "Area": 110,
+        "Bathrooms": 2,
+        "Bedrooms": 4,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8067,
+            "Name": "Keith Hay Group",
+            "PhoneNumber": "+64-9-6210070",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-3.jpg",
+            "Branding": {
+                "BackgroundColor": "",
+                "TextColor": "#000000",
+                "StrokeColor": "",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4702382-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Glen Ellis",
+                    "MobilePhoneNumber": "(027) 4735523",
+                    "OfficePhoneNumber": "(03) 3499102",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1745539492967)/"
+        }
+    },
+    {
+        "ListingId": 3508317242,
+        "Title": "New Modern Keith Hay Home For Your Section",
+        "Category": "0350-7279-7283-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1646969092033)/",
+        "EndDate": "/Date(1745539419520)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068070)/",
+        "CategoryPath": "/Trade-Me-Property/New-homes/New-house",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1718335768.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Enquiries over $435,850",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1714664414.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/new-homes/new-house/canterbury/christchurch-city/hornby/listing/3508317242",
+        "MemberId": 4702382,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "District": "Christchurch City",
+        "AgencyReference": "53-939",
+        "Area": 120,
+        "Bathrooms": 2,
+        "Bedrooms": 3,
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": {
+            "Id": 8067,
+            "Name": "Keith Hay Group",
+            "PhoneNumber": "+64-9-6210070",
+            "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-3.jpg",
+            "Branding": {
+                "BackgroundColor": "",
+                "TextColor": "#000000",
+                "StrokeColor": "",
+                "OfficeLocation": "",
+                "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/4702382-office_branding-1.jpg"
+            },
+            "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/4702382-1.logo2.jpg",
+            "Agents": [
+                {
+                    "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+                    "FullName": "Glen Ellis",
+                    "MobilePhoneNumber": "(027) 4735523",
+                    "OfficePhoneNumber": "(03) 3499102",
+                    "MembershipType": 0
+                }
+            ],
+            "IsRealEstateAgency": true
+        },
+        "Lounges": 1,
+        "PropertySaleInformation": {
+            "PropertySaleType": 2,
+            "PropertyDateOfSale": "/Date(1745539419520)/"
+        }
+    },
+    {
+        "ListingId": 5099179476,
+        "Title": "Looking for house and land packages?",
+        "Category": "0350-5748-3399-",
+        "StartPrice": 0,
+        "StartDate": "/Date(1540087200000)/",
+        "EndDate": "/Date(1740537464393)/",
+        "ListingLength": null,
+        "HasGallery": true,
+        "AsAt": "/Date(1739875068073)/",
+        "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+        "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829220.jpg",
+        "RegionId": 3,
+        "Region": "Canterbury",
+        "SuburbId": 2146,
+        "Suburb": "Hornby",
+        "NoteDate": "/Date(0)/",
+        "ReserveState": 3,
+        "IsClassified": true,
+        "OpenHomes": [],
+        "GeographicLocation": {
+            "Latitude": -43.546837,
+            "Longitude": 172.5331804,
+            "Northing": 5178351,
+            "Easting": 1562289,
+            "Accuracy": 2
+        },
+        "PriceDisplay": "Price by negotiation",
+        "PhotoUrls": [
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829248.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829381.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829405.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829435.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829459.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829484.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829504.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829522.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829541.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829557.jpg",
+            "https://trademe.tmcdn.co.nz/photoserver/thumb/1698829574.jpg"
+        ],
+        "AdditionalData": {
+            "BulletPoints": [],
+            "Tags": []
+        },
+        "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/hornby/listing/5099179476",
+        "MemberId": 6400081,
+        "ListingPlatform": 1,
+        "AllowsPickups": 1,
+        "District": "Christchurch City",
+        "Bathrooms": 2,
+        "Bedrooms": 4,
+        "BestContactTime": "Any time",
+        "ListingGroup": "PROPERTY",
+        "Parking": "",
+        "PropertyType": "House",
+        "PropertyId": "FZU588",
+        "AdjacentSuburbNames": [
+            "Wigram Park",
+            "Wigram",
+            "Broomfield",
+            "Hei Hei",
+            "Islington",
+            "Hornby"
+        ],
+        "AdjacentSuburbIds": [
+            2339,
+            3139,
+            2500,
+            2144,
+            2145,
+            2146
+        ],
+        "DistrictId": 60,
+        "Agency": null,
+        "PropertySaleInformation": {
+            "PropertySaleType": 5,
+            "PropertyDateOfSale": "/Date(1740537464393)/"
+        }
+    }
+]

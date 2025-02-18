@@ -1,0 +1,2384 @@
+[
+  {
+    "ListingId": 4992324658,
+    "Title": "First Home Buyer Opportunity Belfast",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1730172569753)/",
+    "EndDate": "/Date(1744570649753)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492288)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2163702328.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4579109,
+      "Longitude": 172.6393144,
+      "Northing": 5188270,
+      "Easting": 1570820,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $669,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2163702324.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2163702330.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2138618168.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2153010090.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/4992324658",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": " Lot 30a Spring Grove, Bill Hammond Drive",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7865",
+    "Area": 105,
+    "LandArea": 215,
+    "Bathrooms": 2,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Hamish Gemmill",
+          "MobilePhoneNumber": "(027) 2783953",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1744570649753)/"
+    }
+  },
+  {
+    "ListingId": 4968912216,
+    "Title": "Your Home in Connected Community - Over 55s!",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1728962037933)/",
+    "EndDate": "/Date(1741550697933)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492290)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2160538747.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4547862,
+      "Longitude": 172.6417528,
+      "Northing": 5188618,
+      "Easting": 1571016,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $439,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2160538807.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2160538627.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2083018104.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2083018047.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/4968912216",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "12/40 Atawhai Lane - PU55 Spring Grove LSV",
+    "District": "Christchurch City",
+    "AgencyReference": "MK-CT7044L",
+    "Area": 50,
+    "Bathrooms": 1,
+    "Bedrooms": 1,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Hamish Gemmill",
+          "MobilePhoneNumber": "(027) 2783953",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1741550697933)/"
+    }
+  },
+  {
+    "ListingId": 4680707491,
+    "Title": "Fantastic Value in Fast-Selling Spring Grove",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1714100181957)/",
+    "EndDate": "/Date(1741552281957)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492292)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2115218784.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4579109,
+      "Longitude": 172.6393144,
+      "Northing": 5188270,
+      "Easting": 1570820,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $849,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2115677427.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2089285324.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2064428509.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2079794866.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2115218783.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/4680707491",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "46 Bill Hammond Drive, Lot 111 Spring Grove",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7572",
+    "Area": 171,
+    "LandArea": 407,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Sandy McLean",
+          "MobilePhoneNumber": "(027) 5330191",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1741552281957)/"
+    }
+  },
+  {
+    "ListingId": 5132024517,
+    "Title": "Freshly Updated 3 Bedroom Townhouse!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737426595357)/",
+    "EndDate": "/Date(1744601035357)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492294)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827360.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740275100000)/",
+        "End": "/Date(1740276900000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.45714,
+      "Longitude": 172.624319,
+      "Northing": 5188350,
+      "Easting": 1569607,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $625,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827364.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827367.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827369.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827375.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827379.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827385.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827389.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827394.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827399.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827403.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827406.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827408.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827410.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827412.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827413.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827415.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827418.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827420.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827422.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827428.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827431.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827433.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827435.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827437.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827439.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2181827441.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/belfast/listing/5132024517",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2341280,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "641 Main North Road",
+    "District": "Christchurch City",
+    "AgencyReference": "TRC24330",
+    "Area": 150,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 Car Garaging.",
+    "PropertyType": "House",
+    "RateableValue": 610000,
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 3804,
+      "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-663737",
+      "Website": "http://www.totalrealty.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+      "Branding": {
+        "BackgroundColor": "#f05e23",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#f05e23",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Paul Trainor",
+          "MobilePhoneNumber": "(022) 0700759",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7702514v2.jpg",
+          "UrlSlug": "Paul-Trainor",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Annika Trainor",
+          "MobilePhoneNumber": "(021) 1551492",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8912720v2.jpg",
+          "UrlSlug": "Annika-Trainor",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744601035357)/"
+    }
+  },
+  {
+    "ListingId": 4697981204,
+    "Title": "Three Bedroom Belfast Home, Easy Care Section",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1715045778637)/",
+    "EndDate": "/Date(1741550058637)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492297)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2117829326.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4497081,
+      "Longitude": 172.6267373,
+      "Northing": 5189176,
+      "Easting": 1569799,
+      "Accuracy": 3
+    },
+    "PriceDisplay": "Asking price $759,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2117829324.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2089285324.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2088393040.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2117829325.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/4697981204",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "Lot A/55 Johns Park - Chrysolite Place",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7441",
+    "Area": 126,
+    "LandArea": 279,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jo Gilmore",
+          "MobilePhoneNumber": "(021) 1044464",
+          "OfficePhoneNumber": "(03) 3540166",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/981566.jpg",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1741550058637)/"
+    }
+  },
+  {
+    "ListingId": 5015851164,
+    "Title": "Your Home in Connected Community - Over 55s!",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1731363762447)/",
+    "EndDate": "/Date(1745780322447)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492299)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2166933934.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.454279,
+      "Longitude": 172.6414113,
+      "Northing": 5188674,
+      "Easting": 1570988,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $720,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166933880.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927926.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927939.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927935.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927945.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2083018104.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927946.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2083018047.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5015851164",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "48 Atawhai Lane - PU127 Spring Grove LSV",
+    "District": "Christchurch City",
+    "AgencyReference": "MK-CT7040",
+    "Area": 137,
+    "Bathrooms": 2,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jo Gilmore",
+          "MobilePhoneNumber": "(021) 1044464",
+          "OfficePhoneNumber": "(03) 3540166",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/981566.jpg",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1745780322447)/"
+    }
+  },
+  {
+    "ListingId": 5177113263,
+    "Title": "Easy-Care Meets Generous Living!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1739831857537)/",
+    "EndDate": "/Date(1744671173643)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492300)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593242.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740272400000)/",
+        "End": "/Date(1740274200000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.457834,
+      "Longitude": 172.630282,
+      "Northing": 5188275,
+      "Easting": 1570090,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $729,000",
+    "IsSuperFeatured": true,
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593245.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593246.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593248.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593260.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593266.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593268.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593269.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593271.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593272.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593275.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593277.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593279.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593282.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593283.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593285.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593288.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593306.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593319.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593320.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593321.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593323.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593324.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2188593326.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/belfast/listing/5177113263",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2341280,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "7 Booth Way",
+    "District": "Christchurch City",
+    "AgencyReference": "TRC24480",
+    "Area": 148,
+    "LandArea": 330,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 Car Garaging & Internal Access.",
+    "PropertyType": "House",
+    "RateableValue": 720000,
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 3804,
+      "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-663737",
+      "Website": "http://www.totalrealty.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+      "Branding": {
+        "BackgroundColor": "#f05e23",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#f05e23",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Paul Trainor",
+          "MobilePhoneNumber": "(022) 0700759",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7702514v2.jpg",
+          "UrlSlug": "Paul-Trainor",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Annika Trainor",
+          "MobilePhoneNumber": "(021) 1551492",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8912720v2.jpg",
+          "UrlSlug": "Annika-Trainor",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744671173643)/"
+    }
+  },
+  {
+    "ListingId": 5015815251,
+    "Title": "3 Bed, 2 Bath - Over 55's Lifestyle Village",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1731362086673)/",
+    "EndDate": "/Date(1745780266673)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492303)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927947.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4557438,
+      "Longitude": 172.6419515,
+      "Northing": 5188511,
+      "Easting": 1571033,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $790,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166928237.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927936.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927939.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927948.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927926.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927934.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927935.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927945.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927937.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166927946.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2083018104.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2083018047.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5015815251",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "73 Atawhai Lane - PU40 Spring Grove LSV",
+    "District": "Christchurch City",
+    "AgencyReference": "MK-CT6854",
+    "Area": 156,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "PropertyId": "IXV184",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Sandy McLean",
+          "MobilePhoneNumber": "(027) 5330191",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1745780266673)/"
+    }
+  },
+  {
+    "ListingId": 5015798629,
+    "Title": "Under Construction - March Completion",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1731360904667)/",
+    "EndDate": "/Date(1745780284667)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492305)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2166923345.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $849,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166923340.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063559405.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162859514.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2155800594.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2086224089.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166923344.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5015798629",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "72 Bill Hammond Drive, Lot 96 Spring Grove",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7561",
+    "Area": 170,
+    "LandArea": 406,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Amelia Young",
+          "MobilePhoneNumber": "(021) 1174018",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1745780284667)/"
+    }
+  },
+  {
+    "ListingId": 5074930784,
+    "Title": "Over 55s Community - Spring Grove Belfast",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1734383396577)/",
+    "EndDate": "/Date(1741640996577)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492306)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2160538747.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $415,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2160909302.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2160538627.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2083018047.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5074930784",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "4/40 Atawhai Lane - PU47 Spring Grove LSV",
+    "District": "Christchurch City",
+    "AgencyReference": "MK-CT7044d",
+    "Area": 50,
+    "Bathrooms": 1,
+    "Bedrooms": 1,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Sandy McLean",
+          "MobilePhoneNumber": "(027) 5330191",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1741640996577)/"
+    }
+  },
+  {
+    "ListingId": 5015757397,
+    "Title": "4 Bed Home in the Popular Spring Grove",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1731358447167)/",
+    "EndDate": "/Date(1745780227167)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492308)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2097526072.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $849,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2097526068.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166910452.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2165946442.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2086224089.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2138611237.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2070317508.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5015757397",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "34 Bill Hammond Drive, Lot 117 Spring Grove",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7533",
+    "Area": 170,
+    "LandArea": 408,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Sandy McLean",
+          "MobilePhoneNumber": "(027) 5330191",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1745780227167)/"
+    }
+  },
+  {
+    "ListingId": 5152945393,
+    "Title": "Code Issued, Ready For New Owners - Spring Grove",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738552199310)/",
+    "EndDate": "/Date(1745809799310)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492310)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651258.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740186000000)/",
+        "End": "/Date(1740193200000)/"
+      },
+      {
+        "Start": "/Date(1740272400000)/",
+        "End": "/Date(1740279600000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $869,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651246.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651215.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651239.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651216.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651221.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651260.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651225.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651207.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651237.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651219.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651241.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184651242.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2173334914.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2173334916.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5152945393",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "74 Bill Hammond Drive, Lot 95 Spring Grove",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7560",
+    "Area": 179,
+    "LandArea": 406,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Amelia Young",
+          "MobilePhoneNumber": "(021) 1174018",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1745809799310)/"
+    }
+  },
+  {
+    "ListingId": 5062134632,
+    "Title": "New Home in Popular Belfast Subdivision",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1733710701663)/",
+    "EndDate": "/Date(1740968301663)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492312)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2113431908.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4507452,
+      "Longitude": 172.6262355,
+      "Northing": 5189061,
+      "Easting": 1569759,
+      "Accuracy": 3
+    },
+    "PriceDisplay": "Asking price $699,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2113431903.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2155800602.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2160432862.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2155800625.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2113431905.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5062134632",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "75 Chrysolite Place - Lot 38a Johns Park",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7429",
+    "Area": 114,
+    "LandArea": 238,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Amelia Young",
+          "MobilePhoneNumber": "(021) 1174018",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1740968301663)/"
+    }
+  },
+  {
+    "ListingId": 4697996802,
+    "Title": "First Home Buyer Opportunity Belfast",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1715046233023)/",
+    "EndDate": "/Date(1741552373023)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492314)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2117829465.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $699,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2117829463.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2117829464.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2086041980.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2116573956.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2086872534.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/4697996802",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": " Lot 55b Johns Park - Chrysolite Place",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7784",
+    "Area": 112,
+    "LandArea": 260,
+    "Bathrooms": 1,
+    "Bedrooms": 2,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Sandy McLean",
+          "MobilePhoneNumber": "(027) 5330191",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1741552373023)/"
+    }
+  },
+  {
+    "ListingId": 5062102756,
+    "Title": "4 Bed & 2 Living - Fast Growing Subdivision",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1733708984557)/",
+    "EndDate": "/Date(1740966584557)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492315)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2101192699.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $929,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2173332035.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2165946442.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2166910452.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2173332451.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2120737885.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2173332039.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5062102756",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "63 Bill Hammond Drive - Lot 78 Spring Grove",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7555",
+    "Area": 192,
+    "LandArea": 429,
+    "Bathrooms": 2,
+    "Bedrooms": 4,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jo Gilmore",
+          "MobilePhoneNumber": "(021) 1044464",
+          "OfficePhoneNumber": "(03) 3540166",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/981566.jpg",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 2,
+    "Lounges": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1740966584557)/"
+    }
+  },
+  {
+    "ListingId": 5152696084,
+    "Title": "Ready for Family Fun and Summer Entertaining!",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1738538177470)/",
+    "EndDate": "/Date(1744601029063)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492317)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589814.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740275100000)/",
+        "End": "/Date(1740276900000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.458716,
+      "Longitude": 172.627435,
+      "Northing": 5188176,
+      "Easting": 1569860,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $615,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589819.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589822.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589825.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589830.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589834.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589837.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589841.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589844.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589848.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589850.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589853.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589857.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589860.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589862.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589866.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589869.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589874.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589878.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589883.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589889.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2184589890.jpg"
+    ],
+    "HasEmbeddedVideo": true,
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/belfast/listing/5152696084",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2341280,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "30B Thompsons Road",
+    "District": "Christchurch City",
+    "AgencyReference": "TRC24431",
+    "Area": 100,
+    "LandArea": 1012,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "1 Car Garaging & Lockup.",
+    "PropertyType": "House",
+    "RateableValue": 590000,
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 3804,
+      "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-663737",
+      "Website": "http://www.totalrealty.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+      "Branding": {
+        "BackgroundColor": "#f05e23",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#f05e23",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Paul Trainor",
+          "MobilePhoneNumber": "(022) 0700759",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile7702514v2.jpg",
+          "UrlSlug": "Paul-Trainor",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Annika Trainor",
+          "MobilePhoneNumber": "(021) 1551492",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile8912720v2.jpg",
+          "UrlSlug": "Annika-Trainor",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744601029063)/"
+    }
+  },
+  {
+    "ListingId": 5141408115,
+    "Title": "Contemporary Modern Living",
+    "Category": "0350-5748-3399-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1737932515710)/",
+    "EndDate": "/Date(1744586755710)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492320)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/For-Sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140836.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [
+      {
+        "Start": "/Date(1740186900000)/",
+        "End": "/Date(1740188700000)/"
+      }
+    ],
+    "GeographicLocation": {
+      "Latitude": -43.457124,
+      "Longitude": 172.639022,
+      "Northing": 5188357,
+      "Easting": 1570796,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Enquiries over $779,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140837.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140839.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140842.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140843.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140844.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140846.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140848.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140849.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140851.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2183140852.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sale/canterbury/christchurch-city/belfast/listing/5141408115",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 2341280,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "17 Llew Summers Street",
+    "District": "Christchurch City",
+    "AgencyReference": "TRC24344",
+    "Area": 136,
+    "LandArea": 359,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "2 Car Garaging & Internal Access.",
+    "PropertyType": "House",
+    "RateableValue": 730000,
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 3804,
+      "Name": "Total Realty South Island - Canterbury, (Licensed: REAA 2008)",
+      "PhoneNumber": "+64-800-663737",
+      "Website": "http://www.totalrealty.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-17.jpg",
+      "Branding": {
+        "BackgroundColor": "#f05e23",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#f05e23",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/2341280-office_branding-14.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/2341280-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Sherini Cassidy",
+          "MobilePhoneNumber": "(027) 2289694",
+          "OfficePhoneNumber": "(03) 9409797",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile1622287v6.jpg",
+          "UrlSlug": "Sherini-Cassidy",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "TotalParking": 2,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 2,
+      "PropertyDateOfSale": "/Date(1744586755710)/"
+    }
+  },
+  {
+    "ListingId": 4903212824,
+    "Title": "First Home Buyer Opportunity - Spring Grove",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1725586575310)/",
+    "EndDate": "/Date(1746988650723)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492321)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2153731052.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4578118,
+      "Longitude": 172.6399853,
+      "Northing": 5188281,
+      "Easting": 1570875,
+      "Accuracy": 3
+    },
+    "PriceDisplay": "Asking price $675,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2151021472.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2151021470.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/4903212824",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": " Lot 224 Spring Grove - Llew Summers St",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7896",
+    "Area": 109,
+    "LandArea": 224,
+    "Bathrooms": 1,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Jo Gilmore",
+          "MobilePhoneNumber": "(021) 1044464",
+          "OfficePhoneNumber": "(03) 3540166",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_branding/160x160/981566.jpg",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1746988650723)/"
+    }
+  },
+  {
+    "ListingId": 5045275220,
+    "Title": "Three Bedroom Belfast Home, Sought After Location!",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1732841400427)/",
+    "EndDate": "/Date(1747075974030)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492323)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2111708548.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $729,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2111708546.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2162859505.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2086255572.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2111708547.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5045275220",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "5 Clontarf Lane, Lot 47b Johns Park",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7708",
+    "Area": 120,
+    "LandArea": 273,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Amelia Young",
+          "MobilePhoneNumber": "(021) 1174018",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1747075974030)/"
+    }
+  },
+  {
+    "ListingId": 5045266464,
+    "Title": "Looking for Low Maintenance in Belfast?",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1732840999027)/",
+    "EndDate": "/Date(1747075967397)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492325)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2111706072.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.451944,
+      "Longitude": 172.6233109,
+      "Northing": 5188927,
+      "Easting": 1569523,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $729,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2111706066.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2073739773.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2155800620.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2150985374.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2111706067.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/5045266464",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "5a Clontarf Lane, Lot 47a Johns Park",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7435",
+    "Area": 120,
+    "LandArea": 273,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Diana Creighton",
+          "MobilePhoneNumber": "(027) 2242835",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1747075967397)/"
+    }
+  },
+  {
+    "ListingId": 4656177173,
+    "Title": "Suited to a Range of Lifestyles in Johns Park",
+    "Category": "0350-7279-7282-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1712798017803)/",
+    "EndDate": "/Date(1741035277803)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492326)/",
+    "CategoryPath": "/Trade-Me-Property/New-homes/House-land",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2111697434.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4545317,
+      "Longitude": 172.621639,
+      "Northing": 5188639,
+      "Easting": 1569389,
+      "Accuracy": 2
+    },
+    "PriceDisplay": "Asking price $799,000",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2111697433.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2086255572.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2096108575.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2111697432.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2063311644.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/new-homes/house-land/canterbury/christchurch-city/belfast/listing/4656177173",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 1441063,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": " Lot 46b Johns Park, Clontarf Lane",
+    "District": "Christchurch City",
+    "AgencyReference": "CT7709",
+    "Area": 136,
+    "LandArea": 299,
+    "Bathrooms": 2,
+    "Bedrooms": 3,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "House",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 4890,
+      "Name": "Mike Greer Homes Ltd",
+      "PhoneNumber": "+64-800-645347337",
+      "Website": "http://www.mikegreerhomes.co.nz/",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-15.jpg",
+      "Branding": {
+        "BackgroundColor": "#000000",
+        "TextColor": "#ffffff",
+        "StrokeColor": "#000000",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/1441063-office_branding-15.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/1441063-10.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Gary Burke",
+          "MobilePhoneNumber": "(021) 1829645",
+          "OfficePhoneNumber": "(03) 3540166",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true
+    },
+    "TotalParking": 1,
+    "Lounges": 1,
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1741035277803)/"
+    }
+  },
+  {
+    "ListingId": 5043674025,
+    "Title": "Build your dream home here!",
+    "Category": "0350-5748-3400-",
+    "StartPrice": 0,
+    "StartDate": "/Date(1732766438720)/",
+    "EndDate": "/Date(1745445578720)/",
+    "ListingLength": null,
+    "IsFeatured": true,
+    "HasGallery": true,
+    "IsBold": true,
+    "IsHighlighted": true,
+    "AsAt": "/Date(1739869492328)/",
+    "CategoryPath": "/Trade-Me-Property/Residential/Sections-for-sale",
+    "PictureHref": "https://trademe.tmcdn.co.nz/photoserver/thumb/2170773227.jpg",
+    "RegionId": 3,
+    "Region": "Canterbury",
+    "SuburbId": 2039,
+    "Suburb": "Belfast",
+    "NoteDate": "/Date(0)/",
+    "ReserveState": 3,
+    "IsClassified": true,
+    "OpenHomes": [],
+    "GeographicLocation": {
+      "Latitude": -43.4479973,
+      "Longitude": 172.6155398,
+      "Northing": 5189362,
+      "Easting": 1568892,
+      "Accuracy": 1
+    },
+    "PriceDisplay": "Asking price $206,550",
+    "PhotoUrls": [
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170625427.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170625429.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170625432.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170625434.jpg",
+      "https://trademe.tmcdn.co.nz/photoserver/thumb/2170625437.jpg"
+    ],
+    "AdditionalData": {
+      "BulletPoints": [],
+      "Tags": []
+    },
+    "CanonicalPath": "/property/residential/sections-for-sale/canterbury/christchurch-city/belfast/listing/5043674025",
+    "ListingExtras": [
+      "premium_listing"
+    ],
+    "MemberId": 5891816,
+    "ListingPlatform": 1,
+    "AllowsPickups": 1,
+    "Address": "104H Johns Road",
+    "District": "Christchurch City",
+    "LandArea": 243,
+    "ListingGroup": "PROPERTY",
+    "Parking": "",
+    "PropertyType": "Section",
+    "AdjacentSuburbNames": [
+      "Belfast",
+      "Northwood "
+    ],
+    "AdjacentSuburbIds": [
+      2039,
+      3277
+    ],
+    "DistrictId": 60,
+    "Agency": {
+      "Id": 10449,
+      "Name": "Raine & Horne Northwood, (Licensed: REAA 2008)",
+      "Website": "https://northwood.mikepero.com",
+      "Logo": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5891816-7.jpg",
+      "Branding": {
+        "BackgroundColor": "#ffffff",
+        "TextColor": "#000000",
+        "StrokeColor": "#ffffff",
+        "OfficeLocation": "",
+        "LargeBannerURL": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/office_branding/5891816-office_branding-6.jpg"
+      },
+      "Logo2": "https://trademe.tmcdn.co.nz/tm/property/agent_logos/5891816-5.logo2.jpg",
+      "Agents": [
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Natarsha Crawford",
+          "MobilePhoneNumber": "(021) 0700799",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4353269v6.jpg",
+          "UrlSlug": "Natarsha-Crawford",
+          "MembershipType": 2
+        },
+        {
+          "__type": "PropertyAgent:http://api.trademe.co.nz/v1",
+          "FullName": "Susan Mullink",
+          "MobilePhoneNumber": "(022) 1056877",
+          "Photo": "https://trademe.tmcdn.co.nz/property/agent_profile/160x160/agent_individual_profile4611596v4.jpg",
+          "UrlSlug": "Susan-Mullink",
+          "MembershipType": 2
+        }
+      ],
+      "IsRealEstateAgency": true,
+      "IsLicensedPropertyAgency": true
+    },
+    "PremiumPackageCode": "PlatinumPackage",
+    "PropertySaleInformation": {
+      "PropertySaleType": 1,
+      "PropertyDateOfSale": "/Date(1745445578720)/"
+    }
+  }
+]
